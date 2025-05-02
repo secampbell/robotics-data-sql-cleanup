@@ -1,0 +1,124 @@
+employee_id,first_name,last_name,job_title,department,hire_date,performance_rating
+ce2a0b4e-c3cb-421d-a9dd-7942361c4db7,Lucy,Millins,Administrative Assistant,Operations,2021-04-12,7
+56517a9c-8ac6-41af-b727-11edb8738608,Halsy,Thoresby,Operations Lead,Human Resources,2022-08-11,8
+c76dd31d-a6f2-4c56-af2e-2a3ada93cf52,Cris,MacKenny,Support Agent,Engineering,2022-01-03,8
+fb5a1c7a-05a8-4794-a1c1-83d8281993ab,Lani,Waghorn,Account Executive,IT,2022-02-28,5
+891c5ae4-e3f7-456b-8911-de3aa72de1d8,Veda,Fitchen,Warehouse Associate,Marketing,2023-12-24,8
+e3a55623-4de4-4436-99c5-dc7666f5123d,Nickolaus,Shoppee,Robotics Tech 3,Fulfillment,2024-09-04,9
+3f32d97d-31db-48f0-936d-66b5825f11af,Smith,Tebbs,Customer Success Specialist,Customer Service,2022-12-22,5
+ae0bc813-54e0-4036-adbc-83bcffa2956f,Teador,Dengel,Regional Manager,Administration,2023-03-15,7
+d8d171e5-31ae-4c94-8ff8-13f80a019ac2,Arlen,Rennicks,Product Coordinator,Sales,2024-09-11,5
+a4593e8d-aea3-4183-acd7-ef6ec981dfbd,Brigham,Rapaport,Robotics Tech 2,Support,2022-08-06,9
+e0378b1e-e32b-4ab3-beb0-ca6073a8e0c8,Franklin,Middas,Technical Support Specialist,Finance,2022-05-24,6
+d7353dcf-a104-4b67-9718-93cf00fa8b88,Wells,Rutland,Software Tech,Legal,2022-05-07,8
+14c6f185-62dd-40c3-b71b-c28756aaa2f9,Nikolia,Binion,Robotics Tech 1,IT,2021-05-07,7
+0c72ff51-b8db-40be-8bc2-8df36cd90291,Ryley,Caig,Sales Manager,Finance,2021-01-17,9
+dab6f186-da0e-4c25-9276-8b2696a50722,Rahal,Keeler,Fulfillment Staff,Administration,2024-09-26,7
+783e6f79-abb7-44c9-ab12-3a245c1cd711,Ilene,Gorusso,Customer Success Specialist,Legal,2024-09-26,6
+4d402849-ac45-41b0-aa24-d0ea0204dc3a,Merridie,Spears,Administrative Assistant,Sales,2025-02-08,9
+6eaa84cb-0493-4dc5-a3bb-6e1e56a5a03d,Eberhard,Espinola,Robotics Tech 3,Human Resources,2023-09-25,5
+09eda5be-d345-4899-ac17-70212c0abc84,Gayleen,Tribbeck,Regional Manager,Engineering,2021-08-12,6
+c5de052a-a076-41ca-99a8-a4ae5c087af0,Jennee,Humes,Product Coordinator,Marketing,2024-02-10,6
+1648e90b-6030-4a8c-829f-5e3e6e572e64,Lenci,Toquet,Sales Manager,Fulfillment,2024-03-06,9
+80649441-830b-4fe6-b6c9-31983fa6a86c,Beatrix,Barbrook,Software Tech,Operations,2021-07-14,8
+1e148fa5-ea3b-4841-91b6-59547a5352da,Peyter,Sambath,Robotics Tech 2,Customer Service,2022-10-10,8
+100d66ef-c55b-459f-a044-bcaaff7bd6b2,Alex,Edgerton,Fulfillment Staff,Support,2023-04-08,9
+f34367b9-8b26-473d-852d-7a6633a855a6,Gretna,Sowten,Operations Lead,Human Resources,2023-07-14,6
+da708630-73b1-4686-8439-3d7fceb1c806,Storm,Leimster,Account Executive,Support,2022-04-30,7
+20b5bfc8-6258-4fa8-9d6b-31ccba99ca3d,Bennett,Albasiny,Technical Support Specialist,Administration,2021-12-07,8
+0d444680-a6d3-4c25-a288-2e85cdd719a9,Hersch,Ciccotti,Warehouse Associate,Customer Service,2022-10-06,8
+76190db0-7c3f-4e86-a654-d7da3796567e,Sanderson,Pallas,Support Agent,IT,2022-11-03,9
+6f18c056-b0e2-4175-a5ac-977161022129,Theodore,Denizet,Robotics Tech 1,Engineering,2020-11-18,9
+a1704d5e-90a1-4c4d-9ae3-150978f148e4,Gilemette,Bond,Regional Manager,Fulfillment,2023-12-26,8
+b6e75ce6-bfc2-4062-96e9-22eabf439018,Chilton,Boribal,Warehouse Associate,Legal,2022-09-29,6
+518474e0-3411-4146-b0ce-2ae106723d13,Cassius,Pape,Account Executive,Marketing,2022-08-21,5
+86244d2a-9f80-4b91-b8ba-569b8eacae22,Correy,Turfs,Software Tech,Finance,2024-02-12,7
+9736b843-6403-4dda-8a45-ec4f50cbbf69,Mariska,Heppenspall,Robotics Tech 1,Sales,2023-06-08,7
+71798f3b-aec5-40c2-a5a2-729cc2e3c974,Shari,Imlacke,Administrative Assistant,Operations,2024-11-25,9
+b5b2d1d7-0110-4190-927b-b879074ad2e7,Van,Geldert,Technical Support Specialist,IT,2024-02-21,9
+069a80d1-d3b3-43ef-b4a6-9ea8b85250b3,Simeon,Glanfield,Product Coordinator,Marketing,2025-03-21,6
+f797b835-25ff-4505-b69d-ec604a09386f,Addy,Beamand,Support Agent,Fulfillment,2021-01-19,8
+b3560cb3-b72d-489f-a6f1-da833dd0c442,Ode,MacGowan,Sales Manager,Customer Service,2024-08-25,8
+4f9352d3-9490-4956-b671-366c9cf27ef1,Aubree,Sidnall,Customer Success Specialist,Administration,2023-09-30,8
+56b7fd31-1542-443e-81d5-caff5b33a2ef,Kyle,Laight,Fulfillment Staff,Sales,2021-12-15,8
+7b6d37af-9809-412e-b7e7-394f25de9398,Enoch,Stachini,Operations Lead,Support,2022-10-12,8
+80276bba-6455-4fbb-8898-dc76a39e8c80,Stuart,Ivell,Robotics Tech 3,Finance,2024-10-07,7
+378a9217-0bb9-4cc6-9a27-3b7e86ac25c5,Johny,Brigstock,Robotics Tech 2,Legal,2025-01-01,9
+294ea7f0-c9e1-43f3-b2cf-4f02cab77499,Elicia,Piotrkowski,Support Agent,Operations,2023-08-08,9
+470a3440-7e67-44bc-bc3e-a0c6babfa1db,Xenos,Balham,Robotics Tech 1,Human Resources,2024-09-23,8
+50d4f5cc-806b-4c09-a914-1706cc0a00c1,Binnie,Lindro,Customer Success Specialist,Engineering,2024-07-12,9
+c98e3476-68b4-40c2-88d9-ec2ff568a68f,Elwood,Chapman,Administrative Assistant,Administration,2021-06-02,6
+c39339f0-6c7e-4b44-a599-525b70d91f52,Ulick,Rowson,Robotics Tech 3,Human Resources,2021-09-27,9
+51b1489f-1c6e-461e-a037-428728c1530e,Marlee,Vittle,Regional Manager,Legal,2021-05-14,9
+34e7ad58-0dfe-4d3f-b12a-b6291822a4d0,Lynnette,Auty,Product Coordinator,Fulfillment,2022-08-28,8
+79d72033-e03d-47e2-9a95-db32d47d9519,Suzette,Klimas,Sales Manager,Marketing,2024-02-20,8
+39dfd258-01a2-4b16-926b-c5a3dd9c9f25,Juliana,Shottin,Software Tech,Customer Service,2023-01-16,5
+f01b4a7b-c042-4a5e-845e-b80b97b56537,Milly,Mowlam,Robotics Tech 2,Operations,2024-06-21,8
+f679e2a5-3b87-46b2-a602-eb964fa53072,Dolores,Matthiae,Fulfillment Staff,Engineering,2024-02-20,6
+0afdfe8c-17c7-4205-b28d-397712b3dc01,Inez,Foro,Operations Lead,Sales,2021-11-18,8
+edcea565-ca87-4aaa-9909-4c9aa8fba9fd,Jobina,Kilduff,Account Executive,Finance,2024-01-01,9
+3fd07a5a-0ef9-4b61-a546-1c611246579e,Gardner,Domerque,Technical Support Specialist,Support,2022-08-03,6
+47e564c6-e957-414d-96ab-2d795297e8ed,Nathanial,Beiderbeck,Warehouse Associate,IT,2024-02-27,8
+bc373f76-e13c-4198-85cb-1d5560260fcf,Ulrika,Breedy,Customer Success Specialist,Legal,2021-08-20,9
+c27aafe5-0868-4180-9732-eb4f177bc181,Hermie,Iceton,Operations Lead,IT,2022-01-18,8
+2980ebc2-a647-4e75-b7e5-92dc23eff50a,Morry,Yakunkin,Robotics Tech 1,Human Resources,2023-11-18,5
+9a76b671-f2ce-4a07-a5e1-9fbd78f686cc,Verne,Sherebrooke,Fulfillment Staff,Fulfillment,2022-08-09,5
+96730110-dc87-4322-8d17-20e82172ca3a,Dee dee,Odger,Product Coordinator,Administration,2023-04-17,9
+570073d8-055b-45cf-bbe2-66389bd4b2a6,Rahel,Cornner,Robotics Tech 3,Support,2023-12-07,6
+aafaf6c7-9218-4578-b014-4fa35dc58a65,Alberik,McOnie,Robotics Tech 2,Engineering,2023-02-14,5
+8aa8d59a-17b2-480b-8bc2-ec25dd505100,Alecia,Bulled,Sales Manager,Marketing,2021-08-31,8
+ede11cfb-4dea-42d3-a44e-f772479fff32,Livvy,Moreland,Account Executive,Sales,2024-07-04,6
+1f433693-9ab0-4e4a-b7f5-ecdb58fdabc8,Roddy,Itzcovichch,Warehouse Associate,Finance,2024-03-18,6
+2a1edb03-8b35-45e1-8294-beb6d316fba6,Betsey,Stodit,Software Tech,Operations,2020-11-08,7
+94a2b82b-61ad-46d1-b02e-c1fe80b28d1d,Whitney,Deuss,Regional Manager,Customer Service,2022-01-14,9
+1030e850-298d-4857-bbb5-b3af76196fa5,Bryan,Riccione,Administrative Assistant,Administration,2022-01-10,6
+3894af8e-5c56-47ab-ac53-e4cd3294c50c,Brantley,Kitchingham,Support Agent,Support,2024-04-17,6
+22750bba-e35a-4615-9b8a-fcbd80cc3872,Sybil,Onslow,Technical Support Specialist,Human Resources,2024-08-20,8
+538d4b32-c3b5-411f-9191-6acfc6f93783,Patrick,Juanes,Warehouse Associate,Finance,2021-06-25,8
+e4fe8afc-4071-4cbe-8e57-6597c068a803,Vinny,Lemmens,Administrative Assistant,Marketing,2024-05-13,7
+6f84ffe7-ba69-4e6d-96c4-a8177ed3dba1,Teodoor,Jaeggi,Robotics Tech 3,Customer Service,2023-03-10,5
+83ccb9e1-8156-41c6-b201-9e95ed17cd76,Karleen,Tattoo,Sales Manager,Legal,2023-04-12,6
+35defbba-d15d-4f35-a7dd-f3b293df5d05,Kip,Trimnell,Technical Support Specialist,Engineering,2023-08-15,5
+6be0b116-7ebc-4736-88da-61d8b051380e,Celestina,Musson,Software Tech,Sales,2025-04-23,9
+b7c9df0d-1143-4190-8cfb-2b3b2c34eafa,Kippie,Wiltshaw,Support Agent,Fulfillment,2022-04-04,6
+6e8d8ba4-96ee-4e19-862a-5591123355be,Amos,Ismay,Customer Success Specialist,Operations,2025-04-19,6
+f62b085a-4273-40d7-930c-9363e4c2b63e,Evvy,Youthead,Operations Lead,IT,2023-09-03,8
+1153d6e6-c425-4755-b4e8-03718ecef97d,Yvette,Barstowk,Account Executive,Human Resources,2021-06-18,9
+93355aaa-ac7b-4756-a3bc-72044ee36119,Brier,Francesch,Product Coordinator,Sales,2021-10-08,9
+eb545097-2e1c-4883-b87b-ba001eb6ea80,Billie,Langelaan,Robotics Tech 1,Operations,2023-06-02,9
+5f76f32a-6b5b-47f8-8f35-9cbd80a66ce0,Debbi,Packman,Robotics Tech 2,Engineering,2024-11-03,9
+1d48193c-5c2e-4f94-9978-10a18ddddc4a,Francoise,Ogan,Regional Manager,Administration,2022-05-04,9
+deac9d93-d0c9-4678-8fa6-469fe1e06ae9,Dinah,Rabb,Fulfillment Staff,Legal,2023-01-21,7
+2b55bd44-8a69-4d12-af1c-ebaf356079d5,Gates,Ralling,Technical Support Specialist,Support,2022-08-04,6
+d5db431c-86dd-4ade-abaf-2aacc9915058,Justino,Knowler,Sales Manager,Fulfillment,2024-11-10,6
+43c3b5af-5f31-4d68-9f45-d1ff6faa93a2,Lonny,Sandeson,Operations Lead,Customer Service,2023-11-26,7
+75971230-84b4-41cd-9084-8355d8e3127c,Walt,Langabeer,Support Agent,IT,2024-02-12,7
+4679cfe6-dedf-4e46-a14c-798cc88891bf,Megan,Zold,Robotics Tech 1,Marketing,2025-03-07,7
+97d93783-9aac-4316-b032-b37bafb58240,Casar,Jacks,Account Executive,Finance,2021-10-10,5
+46ecc203-1729-48a9-9862-c57f1bc28eee,Marcellus,Laxston,Regional Manager,Human Resources,2023-07-11,8
+05f44ac0-661d-4167-a759-714ed6c25eaf,Ellie,Brennan,Warehouse Associate,Operations,2024-05-11,8
+966319f2-99f6-450f-aeca-035f7aa1101e,Thornton,Scrafton,Administrative Assistant,Administration,2022-02-04,7
+70cc2930-030a-497b-88c0-dfd41df82c6a,Austen,Talton,Product Coordinator,Customer Service,2021-11-14,8
+10415453-7a4e-494b-8f3d-56727fb344ab,Bertie,Filasov,Robotics Tech 2,Engineering,2022-05-17,5
+5b7e26d4-ff38-4919-9f83-cdb4977414cb,Tyrone,Klagges,Customer Success Specialist,Fulfillment,2025-04-14,7
+444c41ab-c792-445c-91ec-d24c7007754d,Elisha,Mourant,Software Tech,Support,2021-05-09,8
+f7c84aa7-67a9-4d8d-95d4-197a3a3598b3,Karl,Kenworthey,Fulfillment Staff,IT,2024-10-29,8
+63ff031b-1b1f-4b83-89f3-66f0f59926ed,Grady,Gallally,Robotics Tech 3,Sales,2024-06-09,6
+af4ea90a-1104-4850-9a6b-deb872a1f6b2,Burl,Jennery,Robotics Tech 2,Finance,2022-05-27,7
+e134edb8-c3d3-4e8d-88a6-97a7f9cb3968,Olia,Morley,Robotics Tech 1,Legal,2021-12-31,7
+71ba5dde-a67f-4803-82a0-0b6256f3b899,Benson,Smoth,Technical Support Specialist,Marketing,2025-03-26,5
+6c4a584e-8278-4620-a9a3-5992008ac3e5,Theresa,Derrington,Fulfillment Staff,Finance,2021-05-25,6
+be34b0e4-285b-485c-a332-c3e914dde8d2,Isabelle,Wanley,Warehouse Associate,Administration,2021-04-03,8
+adbae86f-d4b5-4fca-ad7b-01399ee42f87,Jaime,Greetland,Product Coordinator,Legal,2021-01-06,5
+78abb2c2-3145-41e1-962e-1acd9172b6b3,Ariella,Jesty,Robotics Tech 3,Sales,2023-08-27,6
+3f86dbd1-0183-4443-b416-d0edfb54a8d9,Paddy,Wrates,Sales Manager,Human Resources,2023-02-06,6
+169765cf-76df-4c37-82b2-5d5de7280efa,Lucais,Habben,Regional Manager,Engineering,2025-03-06,7
+36e93a99-256b-4633-a8c6-1c2d2a8216b1,Lurline,Andersch,Operations Lead,Marketing,2024-12-04,9
+9d038ac4-c63d-449a-9c77-d569cc39aae8,Elsie,Sherrin,Account Executive,Fulfillment,2023-09-11,7
+d935bf7a-6a22-42b3-af34-c173f981daf5,Bobinette,Semkins,Software Tech,Operations,2022-07-24,5
+ae0e8224-2f45-4304-b84f-37bbdd84b3c0,Towny,Metherell,Customer Success Specialist,Customer Service,2022-05-09,8
+18e95323-7d30-4501-bf6b-6d923ca2dba8,Marinna,Bacchus,Administrative Assistant,Support,2021-06-05,9
+28feea4f-ba84-45a6-a8a8-2463d8a4df82,Kai,Laba,Support Agent,IT,2024-06-07,8
+63b99e7b-e8ad-459f-b32e-838ea38c41e1,Joleen,Bythway,Robotics Tech 2,Fulfillment,2024-04-21,5
+579325bb-df65-49d2-9752-f93d552a8ac6,Felice,Scamadine,Technical Support Specialist,Operations,2024-05-30,5
+a846d30c-0eae-483d-87de-3ddac2bdb006,Veronika,Yushmanov,Operations Lead,IT,2023-08-17,6
