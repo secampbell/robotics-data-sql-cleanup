@@ -53,7 +53,7 @@ This project is ideal for:
 
 Recommended for this repo:
 
-- `/datasets/` folder with cleaned `.csv` exports  
+- `/tables/` folder with cleaned `.csv` exports  
 - `/sql/` folder with DDL (create table) and cleanup scripts  
 - `README.md` (this file)
 
