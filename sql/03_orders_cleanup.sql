@@ -1,0 +1,2 @@
+-- Checked for negative values in quantity, unit_price, discount, or total_amount — no cleanup needed.
+-- Data passed all checks.

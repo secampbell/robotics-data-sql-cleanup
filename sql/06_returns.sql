@@ -1,0 +1,2 @@
+-- No specific cleanup needed.
+-- Return reasons and refund statuses were valid.

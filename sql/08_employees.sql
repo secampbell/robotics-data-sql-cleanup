@@ -1,0 +1,2 @@
+-- No invalid ratings found (range was 5–9).
+-- No changes necessary.
