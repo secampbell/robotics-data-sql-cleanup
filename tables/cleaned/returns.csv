@@ -1,0 +1,468 @@
+return_id,order_id,product_id,return_reason,condition_on_return,refund_status,approved
+54313da1-6bf4-4839-87bf-1ab0d4c2a3fa,cc486244-fa73-4fcc-92d9-88f42569f7f2,22266be3-e142-4923-9859-080e14c3be99,Other,Damaged,Partially Refunded,f
+eeeeda58-e3a9-4fe1-b92c-41256c19b2cc,6a0cb183-97f6-4769-8c88-b4f973f96605,21a25230-a5c8-4418-ba96-59b30c6b1b2a,No longer needed,New,Refunded,t
+d1a659bf-76e9-41ee-9394-0c8672b10ce5,d1db0501-85fb-4799-a0fb-49fc7167960f,407fef91-7656-4c2d-af85-f7ac1b82f56e,Damaged,Used,Pending,f
+c88e6a74-9bb6-46f8-912e-9f4a58ada482,8f6a29e3-ee20-42ac-b596-610ad10b486d,5ba29097-de1c-4862-acb4-db26b84c2a42,Incorrect item,Like New,Rejected,t
+21d25995-5c97-4453-8c70-eee26dfd39d5,4455d0ae-1852-4a3f-88d1-e21d3abdcddb,3ecbf3a6-fce1-43ff-88b1-54d7cec5ecff,Defective,Damaged,Approved,t
+0f136cdb-3369-427e-83d9-330d4771d11e,af52a116-834a-4e53-a5d6-8fe73868a2b1,f0d6a6df-0f5c-4842-a6a9-f18d93e448bb,Other,New,Partially Refunded,t
+8e0ec64b-df23-41e6-848b-1bb7f97a0df9,207f0490-95cf-4bcf-a13e-9d82be38777f,f68fe60e-6687-48a3-b2c2-5d8a14b5a36f,No longer needed,Used,Refunded,f
+d5b2f6ec-fa44-4272-b305-f2f3eed88830,48d4dbd6-6d65-42cf-bba0-7217c12a5a8f,c80ce4e6-fb7e-41ce-96c8-96addad2d8a7,Damaged,Like New,Pending,t
+43847ff1-1b70-4a3e-b837-ac1e0ab53a20,622948b6-984f-43aa-81be-5706d22cc70d,e0cbe0c9-c7d9-40b4-86e7-bebd3ae061cb,Incorrect item,Damaged,Rejected,f
+26b9dc85-7e27-4c4e-9b57-6dc9ef803bd8,a6533158-cdbc-4d09-b5c0-4e21175a21bb,343180eb-ae49-46d6-b197-722a1ab9c98a,Defective,Used,Approved,f
+91184534-0e57-412c-bbce-6222e0e1527d,8cf0ec17-e294-4cda-a633-314cdad53e31,5a99a916-30e5-4aaf-ad98-4992da2937cd,Other,New,Partially Refunded,f
+5bfdcfb0-ad43-4949-8aaf-4d51ba67b39d,d9f284c6-e8e6-4c8e-912c-aec7a7cbf323,c0ed4bd2-bfb5-49ff-9441-ed0317c43ba1,No longer needed,Like New,Refunded,t
+a5c6d5b6-5c66-43d1-bdff-b3c2afb5619c,6f9e5b83-d480-4780-a34f-9239e3cfb63a,50ab8581-10f3-4616-9a22-aeb18881d2f4,Incorrect item,New,Rejected,f
+c2715001-851d-4389-a9b2-875e2bd17662,67225fe7-12d7-4dae-b0a6-e905535f8bbe,0d0b850b-9662-4c1f-bccf-f4c719154151,Damaged,Used,Pending,f
+401ca6df-cb28-4f87-b576-46d4f70fdb3a,845ce118-b641-4ab1-b86a-7f78c06c982c,15e2673c-bdf7-4d8b-9b58-1903c1657673,Defective,Damaged,Approved,f
+cdd44325-cd72-40a3-99e7-0c7605f8b384,b10bf01d-09c4-4dca-98be-dc53d8059ec6,fe9aa151-e9f7-49d0-a790-21e3ad76ec92,Damaged,Like New,Pending,f
+9f0dd4f1-6c27-4401-8bee-535ba7ea4fe0,b88ace64-c8a8-49ad-a059-f195c68c32f1,855689d3-9fea-4466-ac81-c8b22c9080b6,Incorrect item,New,Rejected,f
+356aa1f0-edc6-4d93-ad3b-613b8fa98084,ac5ea4ae-6a4e-4e56-86ac-a9956df72eec,d191ebac-9073-4816-9525-d22cbb15bccd,No longer needed,Damaged,Refunded,f
+3ca83d59-45be-4eac-be47-fe504560c721,8cdda390-3ab0-432b-9059-e30fcb6cefd2,96dd10f0-45a3-4d87-a9cd-c6d7dc029e23,Defective,Like New,Approved,f
+c24a9352-af94-4ff6-a315-c1215d754574,a26dec5d-38df-45a9-a4a5-5383e23c6722,c6651a16-e5a8-4b51-a31e-145c7878d9e3,Other,Used,Partially Refunded,t
+cc32a93f-9d65-4e75-8416-e1e3b703dcfb,19e24ba5-fa43-4658-a3bb-8589a4a83c6e,7de9881e-cc38-4733-9971-1b0353197387,Damaged,New,Pending,f
+cf3c2a18-de88-4c96-9d25-d33691d2097a,4adb9c72-33b2-445b-b9cb-5692f20c5dc4,d91dfcde-01ea-4283-ade5-400bddcca741,No longer needed,Used,Refunded,f
+90eb9e45-cbd5-4a2b-ac49-8130ca00ad10,11ced806-46fb-40a8-9ff1-c36534d72c98,53411c5c-8b88-4460-a280-57d911efd90a,Defective,Damaged,Approved,f
+0b9c53c6-ce46-4816-968d-ff6a8d0bd35a,2339bb10-4979-467e-944d-3b01ff8fab2c,0bdc0d7f-dadf-4e78-9a79-a2e06cb31b80,Other,Like New,Partially Refunded,f
+f9afc7ca-30fd-467d-a620-29c6b41874bb,78d4776b-4a57-4f39-a2b2-eacd2d09e8ee,1786d7ec-b9f8-4ab5-bf2a-60c44ef67606,Incorrect item,Damaged,Rejected,f
+0caa344b-d71e-4252-88a2-f0c697bbdf90,0f9f743a-9c3f-40d2-aeb4-821bdddad10d,b547a15e-09ae-404b-9788-7dcf25d62109,Damaged,Like New,Pending,f
+dd93aab8-577e-45cc-a931-39da40b2c2d6,7f6035d2-fa09-4231-9058-7290325152be,8d846464-0a13-44cd-8dc8-3dd586cd9368,Incorrect item,New,Rejected,f
+2d595849-0aba-420e-bd75-2194d9c5844a,be548758-de12-40c4-bc29-929b18312dc8,ec42b084-d13e-4e41-b4a1-45d2f72a6fb2,No longer needed,Used,Refunded,t
+618d0f4a-e802-43ca-af7a-96a1d1d7f0ee,04eca2ea-c3d0-475b-bc0f-5a08c6f4ad93,b160ce12-4305-41fc-8f75-5cb54201de11,Defective,New,Approved,t
+7bc25835-7836-4f78-bc0e-ddd966af8140,9b04ffed-7971-427f-947e-d759012ed458,62ff429c-7757-4350-b330-457d48fa5c2d,Other,Used,Partially Refunded,t
+56d937aa-6e8a-4880-89db-7c1690e58515,8e803b2e-d0d2-4a8f-b373-ced34fad1042,678a36ef-86a7-4cd7-abf4-b0ca6c02c402,No longer needed,Like New,Refunded,t
+dae9c119-74e4-47e4-8307-b7be70e13346,d42e2754-3bb3-4535-88e6-f243b165e1c5,df9bc8b2-95cd-4046-b712-937cf8a98a96,Defective,Damaged,Approved,t
+eca1e72d-b7fe-4001-b650-99a0de7cdd7d,bcd8be3f-b24a-4a01-8ee0-1d59a8fe6b7c,f6db1be1-848e-48df-bef7-b47a4b2f876c,Other,New,Partially Refunded,f
+1b7a6aae-1b90-43dc-98cf-b112a735ba26,2a2252b8-980c-4cda-adcb-132e51766ee2,a811d361-1e46-4101-a80b-c5113c14bc0f,Damaged,Damaged,Pending,f
+8d6d963e-eb6f-4953-879b-e7d1d94f2ea9,5e01847c-1c90-4ffa-8935-047ee82e26a8,e8b7672e-49ba-44ec-94a2-97479f43bc36,Incorrect item,Like New,Rejected,f
+ca5e5c30-83f8-4328-adde-b55aea5b0625,f0ee2c5f-7d94-47dd-8839-66d5b73b9719,c71f15de-a546-40e6-8bf2-5ed244869b3a,Damaged,Used,Pending,f
+614701cb-6e5f-4119-b8b8-e92d07f3793c,abdb0f7d-c4b0-4290-af6b-be678edc51b3,5ad6c05a-e655-4155-9458-7a58c2d9e00e,Incorrect item,Damaged,Rejected,f
+fc4a07d0-c61a-4fe4-9690-85fde43b78d0,e1de1bbc-c896-4756-8787-5e0e18b91ab8,832b9cb9-ffbc-4038-ae8b-b65818672d3b,Defective,New,Approved,t
+15721968-190a-470c-a717-9a4fd323cdc3,68b9679d-1171-40c8-bf3a-d9710a1ca275,a99ff46b-b833-4c57-9ec7-efb94803d25e,Other,Used,Partially Refunded,t
+0f0bac8d-eab2-43cd-b701-f2321116cd63,fee15053-70e0-4488-81fb-4fcc07b12782,7ce2ca60-61e6-45eb-818e-5043cedee7c7,No longer needed,Like New,Refunded,t
+e0319487-457a-4c4e-8ffb-5a6801d7d6e2,735965bc-baf0-4650-b441-4496ad730572,178603cd-55b6-4979-9599-2d819a78eef7,Damaged,Damaged,Pending,f
+3f8ced13-5db1-4171-aa86-ff70c64ccb09,0a0b61e5-dd51-4113-ae1a-6fcdc43a5c20,2ea989b6-792e-4c6a-b64c-36e87a22fd05,No longer needed,Used,Refunded,f
+9e5fb108-2c75-4899-b476-097eece758f6,c1d4773a-235e-40cc-9308-76cd01cb0070,6e07efe8-80c9-4da6-8a5c-b57a225d0777,Defective,New,Approved,t
+f11a9aa3-38a9-474c-9278-3ce4241efa93,095d18a6-66e8-4af5-94f0-209305c13372,41002691-797e-4289-807f-8a379d6caa47,Other,Like New,Partially Refunded,f
+272f8287-07c1-4aa6-b5c4-978ab9fa7ebb,dda413c7-749a-420b-88d6-747d01adbbb3,7be3a489-ae92-4d91-bc79-aaa5ed84dcfa,Incorrect item,New,Rejected,t
+4d7243bb-041a-4c76-9999-1ad1671a6786,04bec4da-fb57-415c-9d12-3fabb7394cdb,e772676e-87d9-4715-9298-ce425a5d7674,No longer needed,Used,Refunded,t
+3ddc3807-bfba-4b5e-b5b7-0dee83d15f1a,26c402b7-4899-43f1-adac-405ac54f5524,c1249004-268b-4410-9b96-f4ccdd3ee0eb,Other,Damaged,Partially Refunded,f
+bd993f13-7e5e-42b5-bfd4-f19c05246605,28e55dae-5c5b-4b86-8a11-07b6126daa3f,2cb41146-87a6-47ee-9228-0c018cfa67d5,Damaged,Like New,Pending,f
+100f2de8-fc1e-4376-9c3f-5252c50646a3,1c068d02-f61f-4b05-99e1-2aca2c10b643,91f48f3f-c24e-48e9-b40f-198f6e1491a9,Incorrect item,Damaged,Rejected,t
+89235cbd-2e8b-47af-acaa-cad7d6a86bef,c8903e2e-92f6-45db-b885-1d348fdf81fc,abbfd1fa-adf1-4893-a3c8-aee6e9856889,Defective,New,Approved,t
+80f66062-08fb-4c72-9d3e-9699fc44bb8d,d5fd6762-1805-458a-a246-a982decf51c9,4754a4e3-3aae-42d1-8200-94ebc3b0a249,Other,Used,Partially Refunded,f
+1152ed9f-78cc-4919-8358-a89378533fcc,c0f561e4-9433-40d5-b9b5-b357098b1f01,a85c8f34-db41-4df9-9447-412694c5a544,No longer needed,Like New,Refunded,f
+7244f28e-d0a6-4c9e-b1bb-fb53e0a3346f,723b46cf-a92c-4a33-afda-c73cbd168aa7,6cb6490c-e482-4775-a471-d9e2400acdc1,Incorrect item,Like New,Rejected,t
+80cf46ed-ec55-4cea-a961-7970c44c1522,39f3bec5-78b8-4f77-9878-380a2713c142,f3a2a8cf-e525-48b4-b48c-5d4ae22c9c0b,Damaged,New,Pending,t
+18619c63-955e-4f80-9667-380509d97fc2,b9fcf076-e4c8-4c86-a640-0dbffe194ea6,cb735ae2-a68d-4e1b-8d01-08c302ca7433,Defective,Used,Approved,t
+c19cfac5-5084-4015-a658-5c7d1ea0fc4b,d3537e6e-3abc-424d-961f-1657042b8132,6782324e-1d81-4918-96c8-192406295c6f,Other,Damaged,Partially Refunded,t
+61569b5c-4877-4602-8c42-1691d6ce43f9,8027ba9c-ad40-4ae2-acfb-e51442d034ad,ff82ceb0-eddd-496d-9248-f2373e6f8a4b,Damaged,New,Pending,t
+0e0d0552-5331-4bdf-982a-c0203de331bf,597df3a6-b126-4788-b6b2-ef0f1ea9157b,cf850114-3f20-4478-9b1c-add0a0b015d7,Incorrect item,Used,Rejected,t
+789915fd-c6c3-4735-b63e-869ee9d225e1,73488f40-9eac-4136-a7ab-a7bb75199310,d35982d3-0556-483e-8371-0541fb484b21,No longer needed,Damaged,Refunded,t
+eb4d341f-de29-4701-a7c8-6fa9fcb5a489,9d4c6571-3ace-4477-afee-c8663b1fe6d3,0b847349-a566-4dc3-868e-878d3384238c,Defective,Like New,Approved,t
+f9065725-04b1-4e7a-a71b-07ea45589bc8,947a71e6-c79f-4fd4-ac3e-48891b8311d6,25b2b17d-bffd-4d95-a44c-60ba25cdc2e9,No longer needed,Damaged,Refunded,t
+f9409e06-015a-4730-8332-7a69b6b2c986,6c3945b9-fb77-431b-8c5f-511db4b7dd98,f68aa42e-2aee-4cb6-9cc4-302854ac685b,Other,Used,Partially Refunded,t
+74c4bcf2-d4c9-437e-bd4e-41df90cba1d0,268e21fd-9170-4666-a74e-90ebd922e1ff,20bf4ec5-5716-4092-8c11-024539b32d26,Damaged,New,Pending,f
+97b0d64d-2982-4c12-8fe5-17876f7a920a,819fc7cd-f9d0-49ed-a159-af9ce2f5b414,88f6590f-5f57-408b-9f4d-89c671f14476,Incorrect item,Like New,Rejected,t
+e77da16e-a89a-45dc-bb8f-a13f31ee23f4,9370c5b2-a0bf-46d8-a3e3-9edb25c243a8,a486b3b1-f7f3-43a5-8a9c-a576f5184ecc,Defective,Used,Approved,t
+8735ea07-e13d-4b90-b0f7-1828f23f8a14,2c960655-e3dc-4070-bf52-5e0b96aa2c4c,e4b876e0-1e55-408e-91ac-6453855e72bc,Defective,Like New,Approved,t
+f9b5dea4-7c7b-42ed-98dc-fa9168aa1125,e5e5e1e3-9681-4b8f-808d-64718e5e0a81,19eb53b4-6f72-494e-95b7-621cbf829290,Other,Damaged,Partially Refunded,t
+b2d2ee68-9a51-4456-90e5-cb5b7ac8d7f3,4b6f7152-aa36-4cee-bb91-86635ace9663,0c5830f7-93d1-4c3b-b939-a9c09a0d986f,Damaged,New,Pending,t
+313b0d0d-f18b-4a3e-abf4-6fcd256da193,d8a22331-7712-4690-a2ba-1376aec28c6f,b96f27c7-2a3d-4721-976d-bf2634be7978,Incorrect item,Used,Rejected,f
+055ab136-8459-40c7-ae39-8f40e65003e4,71120996-20fa-45fe-a546-06f741a3a2bc,e7656fa9-199a-44ee-a3a5-1db9bae4186f,No longer needed,New,Refunded,t
+80d1bc70-f461-42bf-823a-6fe31d5fd366,2e758641-475c-4712-9cc0-d871bc5be329,b0bb5850-f496-415c-9ec7-3d7c58797d94,Damaged,Like New,Pending,f
+7d397dac-218c-43bd-9ac6-57edf287b7fb,b19deb37-2786-4165-8e6e-716cd69ce0f8,fbf05092-becc-412d-8de9-9075ce85db85,Incorrect item,Damaged,Rejected,t
+d3d02a9f-313a-487a-bfb7-4048098a9bb1,cac407a5-176f-4833-b4b6-84ec202661fa,6a7d18ee-b733-41a0-8a64-851736ace0a9,No longer needed,New,Refunded,f
+ba263d98-23f2-4b97-a8be-91d701fd92ec,54161b63-a5be-4c95-874c-3d8838b24c12,8d5b642e-233b-4269-88d9-da306cc70432,Defective,Damaged,Approved,f
+89c227c1-0bc7-4a42-b290-89aa7dbd40af,9140c651-1166-4e02-ab9c-743560d1628f,cdc60ff3-6039-416e-923b-720f7c19cfda,Other,Like New,Partially Refunded,f
+ec0c32e0-70e0-4a92-8278-8ab523f4347c,5595ccb9-930d-4d08-8624-f2d1f6294ceb,1f4c49d0-c603-432f-93d0-30b746ed01b0,Other,Used,Partially Refunded,f
+b7a0ead2-8688-4100-b77d-7d9cb37d0292,41e8cf44-f62d-4fd2-b55a-ca9397734e8e,dd07afcb-e2bf-44ef-979b-df041c520c75,No longer needed,Used,Refunded,f
+0bd905e8-5dad-44da-9dd1-77db0f0c14c0,c3ca2ee9-7946-42c5-bb3f-ed05f5690baa,6be15292-b8f6-4771-91ca-63b3a85ca503,Incorrect item,New,Rejected,f
+29d21f4f-31b7-454d-ab34-5b6ede4ed0b6,55182b99-9651-455f-85ab-eb789166b22e,562e8505-4a0c-49a8-96c9-9d448dcf5791,Damaged,Damaged,Pending,f
+5279eaa3-2a2c-4a09-81c8-9022544e497f,a4cecabd-3a89-45fb-b577-f01388c3eb6d,f2cb4855-f9c6-4fb9-8dae-4d1c7947cad6,Defective,Like New,Approved,f
+ea735084-fc34-4cde-8919-37d566099d68,8ddd79d6-0a88-4cc2-bc53-60d99b1adb9d,6429b251-06f7-4163-b5a6-9f4436e92fb8,Incorrect item,Damaged,Rejected,f
+85af8c17-393e-454a-a6c4-6d73e7a5a359,8e3ed2d1-b1a6-4f5b-9a7c-e7ff946b527f,539cd693-bd0c-4184-8888-33c56e8593b7,Defective,New,Approved,f
+5326d736-d262-4977-a987-2804602ffb72,946fcb77-e544-495f-a226-6bb5385973f2,db0cdf2a-d843-4e44-b770-610bd462001c,No longer needed,Used,Refunded,f
+b8649f6c-de41-4769-8e00-2bc0d8d1f20c,b730993e-163d-48eb-9096-c6ec8a109ef4,09bb33d2-780d-4268-96e6-8fe4f6c77449,Other,Like New,Partially Refunded,f
+91a8c0cc-f1d0-4851-8263-e32564fd2c7d,50bbef30-dc77-4d50-bfb6-27bcf8021b03,b8b966b6-8af0-4b36-ba0e-e69a7ba8aec9,Damaged,New,Pending,t
+ecad9cf3-5079-4b75-811a-ea82c0bf6708,78a07ef2-5439-4488-95ca-786a14f65d1c,2e4b1b12-c18b-429f-aef2-ac2ee650d5b2,Incorrect item,Used,Rejected,f
+e88a643d-e020-489a-9238-63b2ef5226ed,3ee4ce7d-e353-42ad-94f0-4062e1d5e233,9eebc4a1-3197-4c95-8b6e-59ec7d087f14,Damaged,Damaged,Pending,t
+d78ccdf7-d3bc-412d-bb69-49eb804649ac,9af77ac3-193d-4787-b87c-e1a263a45af5,4637a87a-9228-481d-a722-0c1011c1f7ae,Defective,Like New,Approved,t
+b476645b-838c-4968-979e-7e43c0c7b3bf,10071362-f0bc-4c44-88b3-c1b752e09e73,c457504c-d66d-4704-832a-8dfb5c90bfd3,Other,New,Partially Refunded,t
+85c10d81-b3c6-4583-b107-810cc7b38383,217f62c5-6bde-4575-a6fc-43f8e180f167,b41e404b-6833-4615-aeec-39d30ee42a07,No longer needed,Damaged,Refunded,f
+a36d2577-bcbe-4058-a62e-91afdb86aa8b,63f5e584-e7bd-4ecd-afa3-e440969911a6,cff5cc2e-29c5-41a3-8c50-64a29d0182e4,Damaged,Like New,Pending,t
+db7d7dd5-1ea8-470d-968f-57d09cda8922,b58058fa-de8d-4235-b1e4-3e531c10e5fc,46eb7e91-9310-4f25-81f4-f1966591a1be,No longer needed,Used,Refunded,t
+84a2d12d-ad26-4d6e-a349-c0d77bbeeb32,193d6e16-f26b-4863-914a-0e103d412aa4,177df13d-952c-4905-a9a7-6a25500e4b1d,Defective,Damaged,Approved,f
+ffd64b7d-d78e-4e81-a1f5-686817156bb6,294f5f0a-c323-4dfb-bb94-eb6e1a0528e6,34d65c62-857d-427b-8411-6d132e718ecb,Other,Used,Partially Refunded,f
+75a3b847-4d2b-494b-8ee9-6701778b45c7,2d6faa6d-65f1-487d-b61a-4d2be098916a,6945ee40-9fb8-4237-8c51-78ff570ea407,Incorrect item,New,Rejected,f
+84f13532-4d73-4b2e-acb6-5f270a695752,b6f8e40f-19f0-46a1-89cb-c728e2d60d61,bb0b6f1e-c9a9-4698-81ac-d9c1ff551cce,Other,Like New,Partially Refunded,t
+594508ee-879e-49be-9857-00c270606079,17411904-e53f-4c3e-b76c-3db921897e01,d9843762-3e66-4f09-9220-d23b31726eeb,Incorrect item,Used,Rejected,t
+68961246-6b50-492f-b5bb-6c09965db59d,7a47dc25-ffd1-4c6f-88ba-ed3be9e455bb,2fa1f27e-a04e-4871-9fd2-fc3f6a94a1f8,Damaged,Like New,Pending,t
+505a3ad6-e574-4b80-a2c3-910381d5cfa3,e2834929-f216-45dd-ba94-2d08b3cd68be,54d22a75-463d-403e-a993-21a1483dbfcf,No longer needed,Damaged,Refunded,t
+bd1aa8e2-4e3a-4e95-b836-d03f9a8d736e,d52e1228-ef70-49eb-9377-e1e0d33c4d00,fe643d61-2802-4497-a98e-af2de238e7e0,Defective,New,Approved,t
+5d17d897-5cbc-465f-b16b-34cd1738abb2,317c79ac-bcd2-4c9d-9d11-b1770db01d00,7c95c16e-17d8-40bc-8e4b-a4da12554a28,No longer needed,Used,Refunded,f
+ba362316-49d9-4a86-b9a4-76b654741855,820c51aa-affd-4903-8215-e681beaf13f4,1085e0b6-f3dc-47b9-a509-942faef6c82d,Other,Damaged,Partially Refunded,t
+5f3e78a3-567c-42a8-9d53-930bccbc4aa0,a3ec7e46-a2eb-4449-b122-0e8d0cadee47,f27c1ce4-e45d-4fc9-9fa3-3e8f6c44a929,Damaged,Like New,Pending,t
+7110de1f-e926-4b18-9f3e-7ca7673219c9,36058480-ebca-4077-943a-7c97208210c3,6ceac273-4e46-46e2-8ac9-5155f4aa5a4f,Incorrect item,New,Rejected,t
+e3d727a7-48ba-4c4a-8b4d-9a6e2162b856,06164833-7087-428e-b53a-7e0540886359,5b1cacb4-2f2b-4b36-a81a-0d9a8903fb18,Defective,Used,Approved,t
+d9b3f241-9667-46d5-b606-fb350105287f,0ed06b6c-ec13-411e-a21d-f547b7635cb0,f0d91a62-6566-4f46-ad2e-3cc0a00f55d3,Other,New,Partially Refunded,f
+2819b64b-5075-43f1-ba75-a1b3614be55c,d6836dc0-ac79-4457-bbdf-28e1a080cb4e,9fda1c2a-b0c6-4b64-8d3d-595863b926da,Damaged,Damaged,Pending,f
+1673ae4f-257a-4494-88bc-a31ac2a748cd,5a87d66d-327a-438e-801f-0a2b30d61e18,71fbf09a-734c-43fa-8014-13053a8b32ae,Incorrect item,Like New,Rejected,t
+e42a872d-39aa-4834-ab98-5269a86c9936,816bf7b4-5e60-456e-92d7-b11d39f65f5f,3c58b430-8d47-47f9-b2fa-a3a7caf90844,No longer needed,Like New,Refunded,f
+286ef92e-e10e-478e-a576-43263ff33eca,2c5e729a-5bce-4bbe-9955-c029f80bbd68,47847dd8-897e-43f7-aef7-0f044823e6e1,Defective,New,Approved,t
+87f18d47-2f31-4ba3-9e9a-fecb91b19ec9,a4c8e691-126d-4bc9-b3f9-e4dde88ef1b3,55ba6d09-7da2-4634-a7ba-b96959c16e4b,Damaged,Used,Pending,t
+b8ec71d2-47ac-4f67-aa86-c49e4864e69d,5fccc157-c28e-48c3-b75b-5ba85c009451,2f1ec398-6df4-4c98-a1c1-f95e990d1aa8,No longer needed,Damaged,Refunded,t
+ee4309a1-dbc9-428e-a95d-00df77e30726,cdf4f90d-129b-452d-8bde-09d5caec1687,1e7db15a-310e-4027-9482-0a4c84ec7996,Defective,New,Approved,t
+950a1742-826f-4a28-85a8-4ccfe76a8dff,a3794703-a9bd-419d-b855-e756f50f8510,429c0d5e-0b59-4f9e-ab14-a75e0d707e20,Other,Used,Partially Refunded,t
+ccea224f-67cd-4f30-94a1-875e6abe0919,db0b0d76-f9b7-4b58-b1ba-75a7ec86370b,614b6447-d1ba-4b54-ad62-1d1fbc4e06a1,Incorrect item,Damaged,Rejected,f
+22a1a7f8-0f14-4f04-ab5c-96f464cbc8dc,fd908d7c-6cee-4a00-a9fa-6506f7676659,2fb5fa0a-6098-4c91-a836-3127180a1271,Other,Like New,Partially Refunded,f
+75e5d1d8-8aec-43fa-b98c-9eca7bfdd7ae,2a33e6f4-a566-4467-a7f5-41d18f23fcf7,2fd38af4-e4f2-45f9-b50b-a6a90bf37236,No longer needed,Damaged,Refunded,f
+ba88c7e2-c16d-4cbc-a3ef-63ccf97af235,a4c6d776-5d9b-4a77-9c55-702f03eac450,f244313e-cb59-4357-a7de-5b6f3e7b6b29,Incorrect item,Used,Rejected,t
+3f05f910-e985-4fb9-9285-8bc0c055e0a6,5d2d09b6-1a2c-4b42-be5e-ad8eef9c7082,0975caec-89e6-4ae6-84c4-5e706547d95f,Damaged,New,Pending,t
+b45e9194-9eb8-40c3-a793-62888255cef0,f5afeae2-d9cb-4e44-a707-5a4d2fddac24,2c8bd8df-8708-4c9b-aee0-b2d8026f9fe0,Defective,Like New,Approved,t
+aa0062d0-ac9f-4594-be48-fb23106cdbe0,a54c1eee-0180-4d09-9d91-b2cf938b0f9d,9744019a-f3d9-4d44-b876-409adb1336b9,Incorrect item,Like New,Rejected,t
+14b26aed-7d34-4f99-a757-a1d17fe70ad5,ec05342f-d0f7-4870-8659-a427c419dff0,10b84dc4-c3bf-4f22-86b8-6f05a38dcdc8,Defective,Damaged,Approved,t
+0be7261b-540f-4c2e-91f4-0f4b3ee4e751,dafb8c3e-03aa-4c9d-a9d3-4bd5749d067d,6bb0f298-172c-4bc7-8d3c-7f40500f5859,No longer needed,New,Refunded,f
+2db02e5a-326e-42d2-999c-41633214b8e0,a6d00013-69d0-4af9-a40a-1483fd5537f3,628fda35-4246-4362-a472-dd776c1bb6ea,Other,Used,Partially Refunded,f
+9a7d3662-427d-4b1f-8f2c-0a56f447b343,85559063-2d0e-402e-8d58-227de931a2d1,72dcc14e-2a11-4e57-b67d-e17dfa74bbfd,Damaged,Damaged,Pending,f
+fc5b0265-a18b-43e9-9691-70b0358d4f82,660c3bc5-2176-428e-8c28-3bba90a4172e,26a6de47-d70e-4904-bf99-b71748cc2eb9,Incorrect item,New,Rejected,t
+8136562d-37ff-45e1-9e2d-ee753fa5c457,6ded2756-baaf-4082-affe-894573426dc1,a763e439-b119-4988-8528-f559ba81033a,No longer needed,Used,Refunded,t
+6b443e3d-cf77-4c63-8b10-87d84a288d5a,850d4291-6315-4057-8bb2-310f3956164b,58e996ad-095a-4df6-a5d8-f183016836a5,Defective,Like New,Approved,t
+8e00ad8b-a2e4-4458-86a7-f98e13c03ad9,ee900431-765b-41c3-b9ae-da234a36c540,7bb3304e-40e0-4673-8c6c-e2bf3acf3738,Other,Damaged,Partially Refunded,f
+ac2eabc6-df3a-47ec-abd6-6cb6c47de963,cf6d9c54-32e2-4923-9cbc-3a6c1ef80051,aadfc5bb-84aa-48e3-a4e2-02879d251a25,Damaged,Used,Pending,f
+c96e52f2-6ed4-44cb-8c4f-7200ae69e03a,875844be-511f-4742-8fbb-6b71214ede12,1c1cb058-9b51-4ad0-b851-e435e2b2dca1,Other,New,Partially Refunded,f
+3943f6b6-84d5-4b6d-a0dc-d57d74a2737d,14239d3d-e37b-41a5-96e8-3e53de830dc7,d04b7b97-29e8-47f5-a027-6a67f78f94b9,Incorrect item,Like New,Rejected,f
+187f5eea-ac45-4923-b6d8-82064c6ad602,150bf640-a415-407e-887c-7c8dd657d2f1,de352845-763d-4293-94c1-abc2879b7e88,Damaged,New,Pending,t
+a59c3e1f-45c4-4ec0-a69a-1992605a8c24,39ce64f3-4a30-4814-b50f-0ce60a74eb44,db8549b8-f8db-4957-917f-666ba25c3000,No longer needed,Used,Refunded,f
+0447a946-fdeb-4458-9241-d6c82b0fee38,e802abbb-348d-4d25-9471-039cd85a514e,0b53ae44-a5e3-4037-9e01-6227bc22180d,Defective,Like New,Approved,f
+93d6c205-6ee4-4469-a0df-c1b61582d8e2,7786aff8-2fef-4058-b9fb-9d1a5e899bcb,3174cc87-8330-475e-b2f0-2ed9ba6de708,Defective,Damaged,Approved,t
+9a243c73-daef-4f05-9736-33ca9d4f9757,01d06d2e-2d30-4ba0-9a76-5e9d0e01d6d4,5edc896f-2c54-419b-a00f-25a96cce3ef8,Other,Damaged,Partially Refunded,f
+f3d24571-40de-4e5a-8689-425272c5eef2,318bcd8e-3d24-4288-9cd3-07b08c951e26,e960f07b-29e1-45d6-95f3-1756f9537bd5,Damaged,Used,Pending,t
+40d1349a-0549-4dd3-9c3f-6aa413586242,2dcfe4c6-16a3-49a4-b23b-b1e6b755487f,08377192-a8e2-4cb7-b973-160f4f007148,Incorrect item,New,Rejected,f
+fde8ec98-284b-416c-b9a4-0c97984b2eb4,f6432485-dd6b-4dbf-9a48-f137f30aede9,d44fcf0a-bced-4efe-bb72-a6b0cc6fecbe,No longer needed,Like New,Refunded,f
+e0532528-4c6a-4609-ad69-51d786184e20,db0f7463-14fd-4bf8-8b6b-78895c578bf4,2992e9be-ae4c-42c9-a219-49201fedc8c0,Other,Like New,Partially Refunded,f
+209852a9-e4f3-466e-8d58-ec70370716bd,6eebb2ee-a0a1-4184-b85b-2656b52b84d1,34b2b315-c36d-400e-bed8-321f5ccbb287,Damaged,Used,Pending,f
+7c80689d-310f-4077-82fb-c64b6e1bdc41,df5d9e6d-0cee-48db-b366-9128d95e6536,95827796-6a3a-47f8-aa6c-7878625c4a2c,Incorrect item,New,Rejected,t
+9cd75d00-9fc8-48d3-bc2c-d8f26a743555,6269217a-cc66-464c-ab7c-8c7ba163d84a,ccb9d03b-8c36-4322-b57f-0b15fb518feb,No longer needed,Damaged,Refunded,f
+78fc2f50-1c81-46e4-91e9-72e03fd29e5e,2e5fc2d4-a487-4ed1-809d-b0629cd2932d,13621fe1-9078-43c6-910b-6c572cacc73f,Defective,Damaged,Approved,t
+594e56e5-0532-40d2-b40e-ac1917465c23,11358005-c80e-4586-ae0a-bd069b1699cf,8b3936da-3e5d-4800-ad4a-6b32a931bfa5,No longer needed,Used,Refunded,f
+dff4b763-66bd-49bc-95fb-4888e2753900,7d252b86-a018-46cd-aa54-93b49ea66438,f0278c30-ffab-470e-9b69-a87ec397564b,Incorrect item,New,Rejected,t
+8fa19a87-b802-4dbb-abe0-3993e786c8b9,535a325f-140e-4562-ac06-a1bf420ec4e7,8a31bd2f-6058-4525-999b-e66babbe92f1,Damaged,Like New,Pending,f
+aba51a8a-c30d-4c8c-9802-4122efc167c5,7dda86bb-a317-4450-81e1-c68ed2983d78,2ae2c6be-8b5f-4681-950b-bacd0d09b5a2,Defective,Used,Approved,t
+c09954eb-8b12-4fe1-b925-574431288740,a54bbc8d-200a-4563-b5ce-8825f122cafb,57014cda-91e3-4aaf-8c16-d94874a81553,Other,Damaged,Partially Refunded,t
+e9565e3e-92fa-438e-af00-1a0fc1ea78a3,a0b75540-a2b0-4619-a3df-c04ec487f311,7beee9b2-47ae-4192-9732-d48d3b0165a0,Defective,Like New,Approved,f
+90fe678d-9e6c-48d2-a5fb-f8ee0ae7d135,3ae17f0a-c473-4d81-bceb-ab599e96aca3,527bceac-02cc-455b-9fee-82e8df4b5888,No longer needed,New,Refunded,t
+34891a17-91df-4ba7-ac9f-1403e092965a,c60da70b-2ff1-4f1d-9c5f-ff82c8596e97,14ec1256-6b0c-4c17-97d8-ad5d7141cf44,Other,Used,Partially Refunded,t
+0e4a5442-859e-4bb2-ac45-7c6fbcedfcfe,f57f8779-2771-4706-b014-98bf03b12c42,d9d46c86-0a0a-4e48-8c53-9eba9078e5b7,Damaged,New,Pending,t
+c50edd50-ed37-4cf4-b78f-dce7fde2ea75,04b053ad-0123-4151-9013-e4789b8bfa2f,3326c165-6da1-4f35-9b06-5da6633c3565,Incorrect item,Damaged,Rejected,f
+003462c8-9960-460f-8c35-7580bbf645f8,d08e25a5-e417-404c-b26a-bb18393fe0c6,06ea29db-de0f-48ab-8525-75c2c2577af4,No longer needed,Like New,Refunded,f
+45e0ca9a-dd93-4163-8359-bbad9fc6a78a,fc7fd825-e250-452b-9651-b4c967b795b6,27f9e917-97ac-403e-8064-cf19e2bd7273,Other,Damaged,Partially Refunded,f
+8c1de1a1-4d1f-4a92-9a96-0fa944a9a272,f18200aa-2276-4d84-b21d-7ce10a014d59,34a14c5b-4723-437a-b584-b2d640244773,Damaged,Used,Pending,f
+e4b64b27-15fc-4935-9d4e-bbe4a86d6e77,256de8e9-72e1-41c0-aa15-ff1944e29310,64eebfba-7153-42d0-a501-19626d629439,Incorrect item,New,Rejected,t
+1c744c29-239a-46c3-b900-2b481e04183d,2f9458d4-48ef-48cd-9467-a45b2d8fe7a3,28b76240-7c4e-4506-926d-4d6c3556d8a3,Defective,Like New,Approved,f
+4e4b1fb1-9162-4ff6-b653-c8e4ee22b361,620e03b1-6118-4977-b73c-0983755324ed,4f9b902b-f4e0-4ce9-8b87-55bcc5a2060d,Other,Damaged,Partially Refunded,t
+76e3da58-3ecc-4676-bbc0-ecb802ef6c4a,f063a13b-4e8a-4624-a8e1-d530ac63db38,6ece3a04-166c-4170-99ff-5463aef6016f,No longer needed,Used,Refunded,f
+7fce32b8-1c83-4cac-bcd4-1c8da8dfff8a,3e24057c-3223-4cb5-afd9-ca43c72c774f,0c4f603b-90d2-40aa-9319-ede3470ee094,Incorrect item,New,Rejected,f
+9e8c0bde-68f9-4607-a62f-d1923c3a0ffe,c11f05ab-efda-4a10-b128-e403e264ea37,1d5feec3-3dee-404b-9cb1-19c5857019ae,Damaged,Like New,Pending,f
+211dc110-01ec-4990-98c6-da130cf3abc5,9e6368ab-7a4a-4342-8acb-1d2a758ffeab,fa0ba10a-80c6-4bbc-b683-37bf352a7a58,Defective,Damaged,Approved,f
+1dfcdfb2-704c-47f1-a09c-29b45020651b,c1c452eb-c845-4efc-8c38-a12543dead5d,53cb7db5-e3f9-4110-8c63-ebfa610d7b0c,Damaged,Used,Pending,t
+6cdb14ee-a6eb-4265-ba2c-9c6cd7d30ab4,9a37a104-caad-4623-839b-989391e9f2b8,bd027d0b-7d93-4f66-a425-488289e3f27c,Incorrect item,New,Rejected,t
+ab59d7b8-f152-40cf-bb14-6e0c9afee8ee,82a88be9-5946-4c39-994d-882951957f4f,8e0d9b4f-b3a2-48c0-b2b9-2af38b16c8a3,Defective,Like New,Approved,t
+4729c74e-246c-4c8e-8145-758850722192,66fde819-261b-415c-85ae-60046c442552,252ce56f-2886-4617-8755-1ca09fb9d792,Other,New,Partially Refunded,f
+1001760a-b29e-4e91-81be-d677bf46ed6b,56897842-85c6-43af-9a55-1ce3a70d50aa,900d15b1-1fe1-442e-a7fa-8a73a129379c,No longer needed,Used,Refunded,f
+c44e99e5-58ea-4ba3-9f66-9ea270b834a1,1deb6593-203b-4c1a-936a-f75c3e659059,8d1f53fa-2c47-43f9-b42c-bce32368af03,No longer needed,Like New,Refunded,f
+5f0fd490-3750-4f54-bae9-7b3ced8dd5ba,ef13f92e-96e1-44c8-9e76-baec44e29055,d6487525-68bd-43d7-913c-6ec78817e9a2,Incorrect item,Damaged,Rejected,t
+dcd3fb1d-ac95-469f-8263-7bbc2b465f72,f22c5491-bc72-47ec-a871-f17da34cb412,65401f6d-a1b0-4b15-977a-d64f2be41e1a,Damaged,New,Pending,t
+ee6aee5d-9005-413a-a211-ba8030515cd9,7fce4516-209a-4c8e-ab3c-41c13dfb98fa,849e0ad4-716f-47b2-805f-869e681c274d,Defective,Damaged,Approved,t
+c099fbd7-c1cb-4dd2-bdda-a241b5a819ba,bfeff4a6-dd7f-485a-b05c-d60ca4341703,fe885433-2c71-4d59-ad9f-ff63d6885e8f,Other,Like New,Partially Refunded,f
+4b8b9fd9-7afd-4617-b2ba-773d33f16be0,d72aad3e-01fd-4d15-8f9d-8179c4924872,3ebde99e-2954-41da-b410-400127e9b4a2,Defective,Used,Approved,f
+0fafd38c-80e1-487c-91ce-6dd01a9fb5fb,403e3975-b98a-4678-afe7-f0b43bc90bc3,c8bf87cd-3993-42e1-ab97-92b9af9b3033,Other,Used,Partially Refunded,f
+26185104-fcc4-4bb3-a3d4-d34bc0e32aec,09920a63-ff15-4212-8333-35882950cc1e,c70daace-e537-47d5-ae60-22db401467e6,Incorrect item,New,Rejected,f
+08ecd8a4-4378-4561-a9b6-4ff85bc303c5,0141d16d-bb9d-4f5e-9a71-a11e3844e648,cc0bd1ad-31f8-499e-89c2-a4a7a24925ae,Damaged,Damaged,Pending,t
+25e9b902-7e3e-4790-9786-6924fb7de694,bb00eb27-4691-484c-adec-464df5084a2f,2fa57e51-99c9-41b9-b1af-e6616375e3c4,No longer needed,Like New,Refunded,t
+1723fb91-d1ef-4fb0-8baf-cc3e82ed90dd,be50a0d8-afbf-42eb-87c1-3d34f4502d98,0148f35e-c8a4-43bf-9f7b-b2591847d99e,Other,Damaged,Partially Refunded,t
+5316c949-69c1-4609-93d5-a3a55fbfde0d,b96a4829-4357-4805-a1a1-6cab03a1ab80,dabf9830-2ecf-43f7-9c73-df2bf2035dfe,No longer needed,Used,Refunded,f
+64e76ff8-a8d9-4e28-870b-fb8a5e76a73f,341d6268-1db4-4455-ad65-91ddcd3ab804,cbfdee8d-e47e-4cfb-aa12-aa943b77253b,Incorrect item,New,Rejected,f
+43975cdd-fc4e-428c-aaf0-4a5a6a3157c0,a39bb150-2cca-4e15-b6bb-0dad7732f0a8,6888f966-31e0-4f77-bd69-7338840efdb4,Damaged,Like New,Pending,t
+de1f472a-088f-4f77-ab69-c031f7888450,18618fdd-c1cf-47ae-a189-52e07b9dfa3a,c794521b-f757-4515-ba4d-49528562dc78,Defective,Damaged,Approved,f
+04f655a8-de35-4eda-bbd0-ffdb8c027fd9,a92f9ebb-c700-4a73-92e5-0424fcce6fd6,fa120d5c-3d4b-407c-b127-8fd384f65117,Incorrect item,New,Rejected,f
+0932b736-7b92-4784-aa0d-cc02e7392e91,df30a748-bbc1-43d8-99c7-97af570fe003,d1e9cdba-2d35-442b-8f88-01ae4f3e811e,No longer needed,Used,Refunded,f
+df93393f-41e2-4cb2-8ccb-17909a0b987b,f7e0872f-d85b-4898-9115-f3ab02da20be,75f5e411-e13b-4e69-8b4a-fe452aaa7d03,Defective,Like New,Approved,t
+19bb1364-2a89-4411-894c-65c96aaca8b2,296c77ed-34d3-4c67-9579-6a41c73e2c8a,92a20a4f-ac72-4c0d-a2ef-5136732ef023,Other,New,Partially Refunded,t
+7e6de688-e5ea-487c-9382-9a53a6c8c7e3,5331c90a-5e2e-438b-9dfc-bda3ea3f0e54,62f85659-ee34-47d9-b36a-d4c25051c597,Damaged,Used,Pending,t
+703dabcb-02c4-47f5-8676-55bb84c81b3e,731c53b6-ed98-4dad-a2ef-00e670d55b31,5fc77e2f-6b7c-41b6-9eb7-bdfbf313ae65,Other,Like New,Partially Refunded,t
+384d74b1-c980-4ada-b913-43113b9ce343,e068dff2-a259-48f9-83df-8a342cdc7ea1,20cc3c39-cd69-44dc-b9f0-a1eddc791591,Incorrect item,Damaged,Rejected,t
+6203b797-6fbc-4f13-ad04-0b7a669433f9,4b3202df-c388-417c-8ec5-e367c2f7123b,66b04483-5dbf-4c2c-b35c-ce3a161add8b,Damaged,Damaged,Pending,f
+41827eb0-4d48-45e5-889f-87ad67806cc6,0826f70e-1041-4601-b595-16d9ca62536b,b6bf14da-8069-464c-a39c-819a9dc9d6d5,No longer needed,Like New,Refunded,t
+b742c780-d7de-4eae-ba4b-e3ff3d94184d,b932f76e-82d2-4ffb-ae96-2b7840b59e16,59b3a0e6-cb94-4f12-87c5-fa851425d23d,Defective,Used,Approved,t
+d0de9979-7712-47a9-96e0-5aa5fbee9a9f,db805ffe-16b6-4841-aca8-169ffa9c5cd7,2050acef-2063-4ef7-8db3-5c720f52acb7,Other,New,Partially Refunded,f
+2ba16209-169d-43fe-97a3-ed78600d2095,ea994912-2712-4a82-b240-db998eed153d,0de5829b-9151-4749-b2cb-2bf92bc91c46,No longer needed,New,Refunded,t
+c327606c-1bd5-45c5-a645-7089761fa76d,e84df0ec-c329-4172-89c5-398f1f54c290,ae8b53fb-b834-481e-b783-bc83fd1171ac,Incorrect item,Used,Rejected,f
+a8b02764-92c8-43f6-b5e7-9672e888c8ba,b6ab6feb-687c-4209-8544-a0b8e9e4bcef,d18e9c08-1a3c-40b3-92b2-9a1d95f4f265,Damaged,Like New,Pending,f
+60feee14-9d5d-4b83-9470-c1514b7524c5,0a491df8-91aa-48b2-af4f-ace4de882b30,0346cd0f-6352-49b0-b8d9-6383fc9aed8e,Defective,Damaged,Approved,f
+8ef57a94-44f4-478b-b1cf-e572c7586a66,b3962d06-c393-4e23-9bdc-d92ef4a7c801,ec2092c4-0668-4968-9984-1ebcde933f2d,Other,New,Partially Refunded,f
+a7e2ee0b-e9d4-4fb8-9c2a-015c20dadb63,30128f88-594d-4952-8620-b57ac582bd69,cc56e833-e75a-4cb2-bd1b-f8c914b884c0,No longer needed,Damaged,Refunded,t
+93b406b2-783a-457c-bc15-2013fe0afb85,65d984b0-2c19-415e-ae0e-1a0b5ccb3bf9,0d878ccb-7c53-4456-9518-6c58779e1ad4,Incorrect item,Like New,Rejected,f
+be539bbb-71c2-48d4-99f6-56e53d0284e7,64574a0b-9b77-46e6-a8f5-17907f66c6ec,ac09c4bc-9cae-49c3-a02a-aef35aa1d1f0,Damaged,Used,Pending,t
+01dd2a4d-cc2a-41eb-8263-dbc9062164ba,b7f9a1a5-bff5-480b-bc9d-eddc0fe126e2,eff5b374-be8c-49a9-8bf4-96d31aa1be25,Defective,Used,Approved,f
+f629d1ae-4ead-48a8-b504-6e0b97ee33ad,dd6c4ae5-00b4-4c4f-a0b1-2ec4dffddaf9,9f6f3ba7-8975-4383-9166-e5372c237f75,No longer needed,New,Refunded,f
+337a953e-8db8-4a10-9dec-559978118a1f,8191fc17-bc2f-45ae-a0af-55424ea8c77c,15f032fc-ad5d-4c1b-8433-16082a723767,Incorrect item,Damaged,Rejected,f
+67c52de2-bd70-48ab-8a19-45e445685d47,2b682ead-92aa-400f-810e-36f8af4ec489,d1d564a1-165b-488b-9356-38f1eb7b500d,Damaged,Like New,Pending,t
+affacc19-82da-48cc-9cdc-1eec5bac08b8,05160bf7-b287-4195-af7a-0a2da64349a5,a94a1f17-4223-4450-953e-7f2c2c2f3402,Defective,Used,Approved,f
+ae994670-90ed-43a4-9b28-6587f47af70d,56b679b0-f236-4870-9475-a753ebf18787,32bb6cd9-934a-4278-993f-e1912ce58f7c,Other,Damaged,Partially Refunded,f
+987b74d5-d199-4a4b-bfc8-d0e18ea10b88,db2aaef5-d110-40c9-bc46-602046437b88,666ec2e6-d9c9-476e-b818-b2852decd5d2,Damaged,Like New,Pending,f
+ad374178-e046-4c1e-bc99-307a318ec62f,47d1e911-8249-4846-86c2-79f75a2d4041,e6ed416b-b77a-4e8f-9f15-1fb96a89510c,Incorrect item,New,Rejected,t
+d466d321-51a1-43b3-9476-fb7f5380d279,69dae57c-8f8f-408d-9b32-55ff3741a1fb,9b937bb0-779c-45cd-883f-339043ec3524,Defective,Used,Approved,f
+d797e982-97ff-4577-b5da-e2cbe845623f,41166044-17c4-4fc3-9462-f2f0d5f71c22,bc87ba90-f110-4d69-bc11-c08d88b22f95,Other,New,Partially Refunded,t
+ce8327f3-f5db-4683-9134-e0d8c9add18e,4771befb-42c3-496c-a9fa-c733dd3ce6a5,57f76f57-5def-4c70-bd74-2fcc03a352d7,No longer needed,Damaged,Refunded,t
+570a7477-a897-4686-b281-8a01a4a490cd,6db4207b-5004-4c3a-b0e9-a4d18001f2bf,0b859287-0cda-412a-8390-b688f4a2bfdc,Damaged,Like New,Pending,t
+5c28373f-603c-41fd-aa1a-7bbd0ad91aab,56066f20-1fdd-4195-b905-d08566f0724b,c447066f-1bc0-4e79-b9a1-c59f79997e3e,No longer needed,New,Refunded,t
+86352f0c-3b41-43c2-9411-2fa37e37fdca,1b914ec0-4736-43ba-a1b6-816c1b3a78ff,14c65d8b-ba2f-4905-ab2c-3ca46fdd1224,Defective,Used,Approved,f
+d4b0d085-1cde-4b12-ba1f-6813968628ee,a523bb44-fd49-4022-93de-44ed2bf4b1ae,3dd16808-0e7a-4ed5-98ee-8e94a8d63be2,Other,Damaged,Partially Refunded,f
+0efaaacb-3337-456c-871f-507079b8ffc8,d1bc18c9-5249-4bb1-a05a-f8eae0d92db9,a7a107a9-9e7c-473e-884e-8eced141feec,Incorrect item,Like New,Rejected,t
+4ac15d1c-3202-4693-8bc2-833a343498ff,c8fc7e87-948f-4a45-bd92-1ca8f0d0dbfe,07a28d53-f991-4fa7-beaa-1aa4b6877766,Incorrect item,Used,Rejected,t
+433263f1-b1e7-4611-8e07-f22e40007c68,ce0d5753-2315-4cda-92de-54975444149a,6eb6661e-bcec-4260-af1d-b795cfbfd2f7,Damaged,Like New,Pending,t
+b1dc8052-4141-44d4-bc96-9dc2eae5fba3,6efacf95-f6e6-4ae2-a989-a0fa059bf475,5c9b193f-2532-4009-aab7-5ff6f9aa1f0d,No longer needed,Damaged,Refunded,f
+690cfff0-da3c-4ef4-80e4-77712274afe5,75e7abb0-d25e-4d2f-a7b9-3fc8afc44811,cf05f731-9646-41a3-805f-bfff1174b562,Defective,New,Approved,t
+71ffeb74-be3f-4cb8-9cec-fd0daacca235,b13aae6f-1536-4afe-8166-e6077f6596f6,5c2568d2-1a97-44da-888f-cf0dc1961d74,Other,New,Partially Refunded,f
+58333824-8c2e-4b51-94e7-972dbb06d8bf,3c22a635-2fb3-413f-a954-b8c967460109,69b6cb47-6964-47b8-8613-13098a1eeffe,Other,Used,Partially Refunded,f
+673b09eb-45c6-4f7a-8db6-faba56036f06,4a44de70-86ef-4eda-a30d-9b7aafda43a9,f7fad029-89b3-4818-96a9-70afed990a5d,No longer needed,Damaged,Refunded,f
+58eddec3-8203-4d0f-99cb-1586a0cff4ac,240b141c-9309-4d50-8e70-2293cd7f99a0,e89610dc-0fb1-4638-86f7-0a9a0fc83ad4,Incorrect item,Like New,Rejected,t
+a1b2ab44-31ac-48fb-af3e-b6ae3d6874d5,6f4b9bea-011e-4d81-8a6c-1b137953f4d7,988945ec-8ab6-42a0-93cc-5091b0134634,Damaged,Damaged,Pending,f
+c79daa81-bd63-40eb-83ab-6b0eaef40d06,d2c53a91-d8b2-45a7-a99d-2341ea16f07b,873eaf15-1636-40ba-a87c-f239366c80af,Defective,New,Approved,f
+02a6478b-caa6-4f02-a2d3-3af729d1ed60,08117c63-388a-432a-b781-5a54183a048e,0bd05dca-9a69-4b73-85eb-bf00d3be4fe9,Other,Used,Partially Refunded,t
+d7636189-53e7-4f29-84ce-0df25ec45caa,4ac2703c-9520-44fa-b34d-da07ecc87f22,5453441c-d49e-402c-a75b-f1bc872bae40,No longer needed,Like New,Refunded,f
+4174f222-a498-4f04-a720-53a1f0ea966b,311cf8f9-8093-4885-8430-8b86759cecfc,a47f6e33-e83a-4781-b717-4ae64a53b21f,Damaged,New,Pending,f
+6ca50645-71aa-45e2-a0b1-8474c53573ce,657b0fe6-e1bf-4e8c-96ac-d5f331c89a08,2c110834-16b7-412b-8b0b-19a9f69adfdd,Incorrect item,Used,Rejected,f
+a806e381-ccef-44f1-a521-eea6ed1bf1c1,c22a9fd5-ac06-42f6-9d88-dfc06a6ff75c,7e30f39a-389a-4139-ba9e-9345cc57535c,Defective,Damaged,Approved,t
+e2596bb3-3e4e-4e35-bc80-85346065418e,690816c7-e370-4174-afe6-4e5850f1d041,57ce68d9-4514-462f-b286-5185090a0fbd,Damaged,Like New,Pending,f
+49bf4652-25b0-4da8-bd4b-71ea8cdbf27f,ea6309a3-9da5-4dee-826b-0bbbc33a69da,4870c3c4-e3af-4666-850e-da18b1b1f698,Incorrect item,New,Rejected,f
+89f365a6-da43-4dd7-9840-df2fd46f5a1d,867f0ada-bc9c-45f3-a31a-b219eda8cb6e,b61bee9a-0ef9-4a30-bf15-ba385769cc19,Defective,Like New,Approved,t
+b85e794f-d620-4be5-bd17-7f351938a3d6,f28e9b1b-bace-442b-90a6-0452735873f5,2391b2ef-6fad-41ff-a6ce-2d825fe37e86,Other,Damaged,Partially Refunded,t
+f6dcba5c-10ee-409e-9ff0-2fd62ff51f2f,abdebdc4-6a4a-4d83-8c5d-d15b4d01e4a7,8dc67dd0-03e4-4084-98b0-8f60da6524c1,No longer needed,Used,Refunded,f
+a38a51a0-6645-4bbc-9428-84afd579b83a,b5b9bac3-0720-4934-b7a9-0fea75230d7b,e1bde092-a971-4969-88e5-1bae1ae7e894,No longer needed,Like New,Refunded,f
+9d08299c-04a2-4940-83dc-e8373eb268d4,5a12e156-b2bb-4d2c-ab26-1155eb7f711e,21fd21ab-7ead-4e39-a11e-800f718b93c4,Defective,Damaged,Approved,t
+9aafb5a2-b9d9-4795-911c-f7d7d29ceeb6,54da545b-22d5-4342-9810-9c22532a61a4,b6f37bdf-39ae-4fe0-b05a-db620066a954,Other,Used,Partially Refunded,f
+731a9afd-5b35-4085-a256-4afa07ee4a09,2ad0a847-1dcf-4fc0-9c4d-9ef1b5f66bd0,ad7884a3-025e-45e4-829b-55e7927532c9,Incorrect item,New,Rejected,f
+ecaf1d34-de99-4832-969c-28e11f8e623a,eba115f3-c7af-4748-9736-b3dff162dffb,fa505a18-4649-4219-b712-2ca9c3ae5ed0,Damaged,Used,Pending,f
+26a47702-32d5-4d12-90c5-9c8c876edf8f,f3911365-d616-4ec2-94be-96939a8e026f,8ce53e23-1a30-41c6-9ec2-c715bbcbad39,Other,Like New,Partially Refunded,f
+0f19cd18-780f-409b-8e9b-62a68e35ec7c,2bf612dc-73f5-43d7-be29-58ffc4364938,55fa07bb-d869-433e-b285-c5b8b42dd32a,Damaged,Damaged,Pending,t
+64e0b11f-b83a-4105-acab-74bdfcd16a59,eb706ac3-41b8-4146-bff4-7563d2750c06,5489b2b2-01c9-4e94-b3e9-f904be567500,Incorrect item,New,Rejected,f
+fb73ea51-ebb7-4561-9c2f-b8b0491b4bab,ea8e2a2d-a01f-45e4-b6eb-a35434459091,71b3c962-cdf8-4c2a-9343-25904701599e,Defective,Like New,Approved,t
+7f3ab929-ef37-46f9-8985-c900928983ef,3ce085d2-310a-4502-9ce7-f2c4c8fd3d93,3d74bd45-d610-4e07-a1f4-b31d1b88d11b,No longer needed,Used,Refunded,f
+620db72e-677f-43c5-ac64-dd853e0a8707,ea355124-d401-47c3-8dfe-ad0b78e5dbfa,3ffb4a90-6d22-4030-b748-3e2d1f6716ce,Damaged,New,Pending,f
+1e05a9b6-b6e9-469c-8965-729d4b803f07,bd382797-e375-47f2-aadf-e6be82799d43,65ec77eb-e48b-4e63-9bd8-0de3bf76a85a,No longer needed,Damaged,Refunded,f
+4b20493f-039d-4c86-9422-f51af9a8b6c2,bfbf927e-cfb4-4e28-ae8f-9cdf91a82783,abe08c80-d35b-44c5-9455-4b9b2387cd99,Defective,Like New,Approved,t
+42d69ff3-a307-46d6-b786-35148dbff0ca,67b85eef-a718-467f-a639-882278937c3a,cb86806f-bb68-4bd0-af3f-ffc4e959ab83,Other,Damaged,Partially Refunded,t
+f5d45afd-acc4-493e-a744-2143aab562ac,e6b9bcfb-8fb4-4b24-921b-f6f2ac46c0e6,ea970abb-ba7b-4175-8817-a6474ebe1a40,Incorrect item,Used,Rejected,f
+48401ce7-f811-4b43-8dad-2effb9e25ef6,d6a91568-a0d6-4a00-9c30-231a8df8f5ad,90dd4d06-4c45-460c-be27-63629731013c,Incorrect item,New,Rejected,f
+5595d331-c26c-47bb-8f98-b54657fd1b27,3b3c8f19-a4f7-44e2-88d6-f3191221e41a,0c230f2c-e703-47bb-bc43-f094f2dd04a3,Damaged,Used,Pending,t
+fc7ff98b-a88c-4f81-88f4-237f8e25fc2a,a6b9d6dd-b887-4457-83c7-c3fd416fd726,7a036dd8-65a6-41d9-a284-bef6ee5b0c50,No longer needed,Like New,Refunded,f
+e9244bd6-cec6-4c78-bf04-49725048def1,48fa9b87-bdb7-4b76-b49c-9cffe5ff1b1c,5b69a1c4-da17-469f-a423-5cb479e63eda,Defective,Damaged,Approved,t
+30aa90d9-44f0-4a9a-bba8-eb4dba7c0859,22e2243b-809b-4d69-8e1b-cecfa136fa70,8572c068-e559-459e-a92c-468f5655fe07,Other,New,Partially Refunded,f
+2b0a646c-4ed4-4cdc-837a-2b9d90b6d35f,b5d14370-347f-47a1-bbd1-8b741eb24f01,7bdc3a79-46ba-4963-947e-ac3c4d6d2816,Incorrect item,Damaged,Rejected,f
+869fe6f0-c71f-468b-b9f1-673ee234ed68,1670d01d-0928-4d34-8298-87dc348c1f70,cca5930b-2352-4933-bd1f-a8ddba845837,No longer needed,New,Refunded,f
+56b1bd42-6520-40b1-8366-d678a0377ec1,275edfe7-ecc8-416c-aec7-99dce6b11999,0e7436c5-625d-411b-9b97-475bf051edda,Defective,Used,Approved,f
+1c531647-5b80-41cb-bdbc-3fb00ba4d312,0abf5fc4-a2e2-425a-86ab-d05d402348e0,2b32abae-d14c-453d-9d51-1235784eed65,Other,Like New,Partially Refunded,f
+a3c560fa-b632-4fd1-ba44-7a81202d5e46,bbb68a3f-5e56-434f-afbb-0aee71a15f95,af244638-cd79-4cf1-9732-b46cdc4f02e4,Damaged,Used,Pending,f
+54a435e4-07cc-4a58-a35a-8d280ed8a2d8,1d540f8a-ce1a-426e-815e-9e719bcdabbe,10a1ead2-152d-4f3a-b535-9b9a03739cc2,Incorrect item,New,Rejected,f
+cbdf6828-c34e-4b85-8d0d-ea5f18a0771e,980fd164-ceb3-4506-b2ef-9545cf20b487,1f1ffb8a-ee5e-413d-91dd-166261ad8171,Damaged,Like New,Pending,t
+109f0b91-2dbd-495e-ad4f-219b39b9259b,6556e0f4-841c-4172-8c07-b59f75b29b14,a54440de-e302-448c-a6e3-8715cd562109,No longer needed,Damaged,Refunded,f
+7385c7d4-260b-49c6-be53-da27b1d7a1d3,cbc50960-1325-4d8a-930d-3ce6bed25c78,d57dabcc-4bce-481d-a4ec-fe36edd70e27,Defective,Used,Approved,f
+0e69bf09-add1-4fc5-b189-9ab9413c3362,0a0ad63b-03e5-44c3-b144-d8c554079c93,b07f6588-110e-4675-9613-463663b86d97,Other,New,Partially Refunded,f
+8dbb03b4-52bc-456f-b8d3-271e4b94b30f,21e0aa02-02ee-4d08-8b05-6d6e8d693a70,291e15db-cfce-4484-a69b-ea1d4bf9d1b2,Damaged,Like New,Pending,f
+c8e70ff4-486a-40d9-a783-63bafeb9f6d4,aff42bfa-4d76-4d92-a538-968ccb796507,64e7a114-2285-49e6-b0e1-382623854778,Incorrect item,Damaged,Rejected,f
+29709677-7b5b-4d34-8947-fe84360bc3e9,fedf0f0a-b37d-494e-8dc9-0b751abeb21d,ce4a2bbb-004f-41a3-b003-e9a1ccebc04a,No longer needed,New,Refunded,t
+2782fb57-122f-4e6e-ac17-135d9d77517d,c6a8d149-9d4a-4bfa-919d-d653b37bfc30,85d50932-bbfc-438a-b8b5-5cea1257cb21,Defective,Used,Approved,f
+59d0705a-b5e2-4846-8d53-fddeb1c62fb1,c5c6136c-e8ac-43bc-b31c-5b88c4802358,edf18d03-cecd-44fb-b644-f763b044b7fb,Other,Like New,Partially Refunded,f
+9f08f353-5000-408a-900b-31097a1ae9ba,16fcc245-2598-440b-85bc-2c4da7547254,53a1485f-ea8f-4192-8471-c6992d05ea88,Incorrect item,Damaged,Rejected,t
+16497b95-5c75-455e-8713-7e1349ee487c,523da353-8563-4d99-926c-30c4e1549e97,99f8667d-9e69-4598-bbf4-8dc128ef4a29,Defective,Used,Approved,f
+59c3f6a1-17e3-4a57-94a9-02e34cf8e7c4,b2eb9ef8-d312-4b6f-ae65-eec3b6e03431,13b8ea9e-2156-4e94-8c6b-a70f19014c55,No longer needed,New,Refunded,f
+44e3c100-e8b3-4e58-a3aa-4a5f130a5e46,49ff290c-8db5-422d-a924-ad0ddc3ead99,5ba628dc-f268-4643-8748-49483e9dd8c4,Other,Damaged,Partially Refunded,t
+6f7e6e60-680d-4bcb-92a1-b35f35eaf446,44abc5b1-9e4b-45d8-9f61-39bd5adfe49e,2756810c-f8bf-4d89-9130-1f049a82eaa3,Damaged,Like New,Pending,f
+dc321558-61cf-44ba-b396-4071f63acde2,e164b397-c7f5-473e-b264-4108380dadcb,32d642b9-2ccc-462a-ba0c-829d32cd584e,Other,Used,Partially Refunded,t
+5a253dcb-b205-4288-bf3f-0e4057f5f052,59719444-8c2f-42ce-ad81-ee0247c5bd63,16743866-e373-4bbe-92b5-427c58bf4f9a,Damaged,New,Pending,f
+2aeb4f25-504a-4f7b-85e0-c9eeedd24bfd,51360a97-636b-4a1c-8dce-d345f4632426,bee0a86d-dc9b-4aab-ba80-eaa0f0c5f743,Incorrect item,Like New,Rejected,f
+f8d75588-d838-414d-b21b-5f5e0bf0264f,52d71c6f-41cc-4297-b8ea-671bdf51853e,4ddd2972-76c7-415b-8bdf-f36d0cbf0406,No longer needed,Damaged,Refunded,f
+96ad0002-28c4-4cf8-8f3a-27aec90d62cf,dd99b812-c53d-4d30-b58d-95130ab4fc4b,8d127fa6-c0e1-4504-9b92-a7d5051f7dc5,Defective,New,Approved,f
+f4d966f2-2880-44f8-8141-ed285de7bb9b,42c7c055-abda-448b-9086-c9d79bc37209,9955c697-71dd-4e97-83b1-9b2b7dabca4e,No longer needed,Used,Refunded,f
+7b1fa725-a8fe-450d-a07a-5137686e6a3b,600e26b0-5a91-4dec-9bef-536afd3d61de,37a4d2f9-9516-48ee-8b35-f9f1d1629c80,Damaged,Damaged,Pending,t
+0e61d816-32f4-46bc-902b-dee0743fb07e,f166acbd-21ee-4f1a-80aa-dfdd0450a4bd,ae47e6dd-adae-4f80-84ac-8925f59fe1af,Incorrect item,Like New,Rejected,f
+2d08d427-58bb-4b92-9708-f7f6072e00f2,8f1d06bc-34eb-4b2e-9cb2-d69ca8bd8464,13bfff6b-92ce-4133-8595-89bd55ce3066,Defective,Used,Approved,f
+7a231d92-159e-4269-9223-dbebdb4211f7,6266078b-28ca-45ca-b0d7-0572ba4f798f,d5b3b383-d48f-4e0f-919a-513425869dde,Other,New,Partially Refunded,t
+74ee7479-7554-47cf-a700-22398542dfd3,0720544a-0d55-4501-acf2-394ff341d897,1b351151-6f8f-4549-8e79-f38f073f2363,Other,Damaged,Partially Refunded,t
+c5b6dd6e-377e-42f2-83e5-1033daf4747c,47d5f31a-92c7-4c12-ab4f-c6a0bf7882f3,ed47fc43-4b19-4413-acc3-806c81b46e8b,Damaged,Like New,Pending,t
+866d2a9d-0dc7-4669-9a0e-fb6636f3d0bb,403fd4b0-c4dc-4c11-8306-c76b7c7dc75c,c1f0d406-6138-478f-8e3a-916ea4f45910,Incorrect item,Like New,Rejected,f
+82275462-25c6-4b5e-8891-b35d4cead97b,6b8b8fcf-01a3-4d8e-9c1d-aaa377f49b27,4fa65ccd-b752-4e20-a063-ab0c0988b27b,No longer needed,Used,Refunded,t
+f9708a31-2b8e-4ae2-b89c-4f1f3109a84e,f9bf2df4-3349-4046-9d07-afa72926d54a,d76f864c-6d0b-4641-b3d2-82ca6688e4db,Defective,New,Approved,t
+489539b4-96f0-4b5f-a2f6-5ceee402b2f2,ccf24a85-e0a7-49a9-8d32-a08cb344dcde,4e7125e3-9314-4f06-9579-a721714c5ec6,Damaged,Damaged,Pending,t
+d7c9b02a-8268-436b-b5f7-1117b746752c,f77ef6b0-8767-42f0-9a82-dd320a9a8212,733d999f-1f0c-4648-9108-e36f99c5bcd2,Defective,Damaged,Approved,t
+b59e2016-e7b3-4195-906e-45944c7efbb7,7837f712-f378-40b8-9ab5-4baa3b2260e9,ad80f7f9-d568-4e1a-a5c4-0253ed70a50f,Other,Like New,Partially Refunded,t
+11cdf154-8a4e-423d-8f86-61f0d2459afd,f64344f1-3e0b-430c-b702-9b0b1b17a939,08cc276f-2ec6-47a3-a6db-02345c699a7d,No longer needed,New,Refunded,t
+0e5f6e11-0128-4e59-9bc9-7341bf11d370,845e5a29-19f4-4bb5-8e22-8402de844230,619a8397-965d-4ad3-99d2-b758b8dc33f8,Incorrect item,Used,Rejected,f
+29942444-226b-47f8-bee5-795ea7b94345,2d4e45ce-3f52-4d6e-a857-b355f2c81b59,9297e26a-b7de-4eab-b993-7450d2883180,Defective,New,Approved,t
+a8e5da71-f1d8-483d-84ae-72257f00d35b,6541ebd6-7aa4-4698-9949-c492064c7629,50e09de6-99df-4149-89b4-fb631d900aa2,Other,Used,Partially Refunded,f
+c463bb59-779a-4654-8540-ec3ca2d24002,6beec65c-8d81-4ffe-9233-ce7eafda7007,a609be21-6749-4910-bf73-67ec4e6c00f2,No longer needed,Damaged,Refunded,f
+c4ffff38-d73c-4c1a-9ecf-a2beddbe9166,c9e35161-95f6-4c0e-b07b-86749aaa333b,11277e8a-09d2-4f28-878c-888083c5eff8,Incorrect item,Like New,Rejected,f
+09339ac8-ef69-4900-bbf8-ac10a350dcce,fdb58714-7f7a-4ec6-9053-3652fff8867a,7c5ff832-a303-49dd-8f28-d907fdf6b5e0,Damaged,Used,Pending,t
+0230ea2e-765a-407c-86b0-d283a8dfebe7,ff041bd5-1727-47d2-b920-d703635dd181,6eb2814d-69d9-4be7-bc56-0f78f4a8a57b,Incorrect item,New,Rejected,f
+06c620ec-b9ba-4957-8780-e5e153dd0a28,57745b79-a79b-4acb-b9f5-9f5113718ee5,b4e7d17a-f6c2-49a6-a683-8d3b45e7ef3d,Defective,Damaged,Approved,f
+e8cdf500-f693-4a96-a183-94af97127f70,5e3173d4-e965-49ca-a52c-b54634e26ba2,9fddb16c-b06d-4346-b28d-ae9819577877,Other,Like New,Partially Refunded,f
+68bd7e44-bbfe-4cd3-843c-67e6f49a0acf,37ac5f7f-b472-41ea-8b14-d88f2facb656,1c854bdf-2d69-446e-a6ba-a81aacafecf1,No longer needed,New,Refunded,f
+ab177584-8a9e-4234-a5fe-ab7926d95987,6caf6436-7d7a-419f-8f10-9a847d0659c8,799f33d4-c361-4787-8cb7-6f5868279b6a,Damaged,Like New,Pending,f
+62ae98fa-d145-4b42-9af6-805f6bb495ca,6ece9cfa-d3c5-41c5-ad73-f16c80e34498,4e295d12-0b9e-49a6-a703-4215d6d1cfcf,Defective,Damaged,Approved,t
+4164d1fe-fceb-4661-89a1-1f78d095e3d0,541278be-8110-4c49-b29c-c01ba50d1baa,af1231e0-6289-4539-a6bb-8bfc66c03235,Other,Used,Partially Refunded,f
+94b350b2-ce8f-48e3-a6eb-4e3714ab0f39,2ef67de4-2364-41b4-8b9d-b1a39a16344d,4d321bba-609d-4df2-84e6-6b070bcbdbef,Incorrect item,Used,Rejected,t
+5dd403f2-4980-4de7-b98e-f7e0a11def0d,9e34d395-2b85-45a7-88db-dae9d24b8fff,ac94bd5f-fa5d-4e14-9d7a-df6b409b2333,Damaged,New,Pending,t
+78f614c8-58b5-41bc-8a6d-7a008fb73813,09ca0d7f-8b4b-4d6f-988e-065bf6f36d9f,a7eb86e4-9419-4b54-9ae5-074638fd12b7,No longer needed,Like New,Refunded,f
+353d3595-08bd-4666-9c81-fa1d1b852ad1,363c5c7c-b4d2-4ee1-ae6f-14dd06174b5b,b6530f77-f853-476d-ac38-40bdcc694407,Defective,Damaged,Approved,t
+ec84ded2-ef36-4694-98cd-829bcaebc77f,dc3f3782-0706-4c08-a7f9-d84292f72ef5,6a44fd11-1405-46a6-b457-cdc45cf7608b,Other,Like New,Partially Refunded,t
+bb62bbc4-4ab3-4638-985a-6c2b1ccb7ba8,753a8ebf-3ac2-405f-aa39-35a8c0250d1b,2da62316-38b6-4909-afa3-fe32ab99a0f8,No longer needed,New,Refunded,f
+49abbfef-1da0-440b-9190-5899dec8f4e7,becee83e-e11c-4d38-a6fa-07b9c4258e37,56ed9210-704d-42d3-83a4-eabe1a227bbb,Incorrect item,Used,Rejected,t
+9ee1e652-9954-4937-aebd-11da5f65eacd,94c8ff07-c05e-43ed-b419-5718ea44c3a0,a22953e0-26cc-4e00-a149-8f65632e1e2f,Damaged,Damaged,Pending,f
+34b1527d-a15e-4e48-b3e1-954d89ee448a,c54ae236-6a73-42d6-ba65-54a6ea45a325,3b5207ed-dd58-459b-b40a-740a788ba9c4,Incorrect item,New,Rejected,t
+4328a165-b6f5-47f2-a238-b617d5985269,dbc73582-1ba1-4f6a-bac4-8c84803ee734,c315d4b5-3fd8-4e8d-ba27-c40dd81e1501,Defective,Damaged,Approved,t
+27c76ef9-bfb4-440c-b2ee-f379eda5bcbf,8a832c72-106f-487c-9d47-53a12c4c908f,0925cb2f-73ec-41b6-bfb9-5af2f79ad070,Other,Like New,Partially Refunded,f
+44503730-b5ef-45c5-8a49-5a54a52b8d6e,b3dc848b-18a2-4fd0-9c0c-c5b7ecbeae9f,90bf8103-ce94-4409-9cba-e4bd60251772,No longer needed,Used,Refunded,f
+bc4bca56-3764-49fe-8475-f5a3f303a823,7fdb092a-f605-4d3a-9e55-e36f7a792b13,3d2c2501-f3e0-464d-baa3-e9156ebe0e46,Damaged,New,Pending,f
+65aacb7a-e79e-4bbf-91ab-5c39c58cfb54,0a0f58e2-410d-4f3d-bd6a-7ffb3676eb84,77d8d9ed-3c0b-4962-9a54-dd90c7dfce8a,Other,Used,Partially Refunded,t
+1c484f08-a90e-4463-b203-273d5d37a9d6,3dcdda28-c3aa-4ac0-ade4-06efe2cc1f5a,f0c5f55e-d7a3-4aa1-aec1-739c9541e163,No longer needed,Damaged,Refunded,f
+ca915dd4-f32d-4937-9fab-ccf9a8e9487c,6f700384-ab23-475b-9822-9199ddb023c3,2728a536-c775-46f5-99ee-ad63dd372e75,Damaged,Like New,Pending,f
+645f8a78-12ce-41ee-b006-4305c3643df8,cbee6c83-3772-40af-b259-065e43bb9190,49d4a6a6-7684-4ee4-b2b8-3e69924bd79f,Incorrect item,Damaged,Rejected,t
+dbd10b39-e086-4c94-90ea-91f8780ad64e,fdacb51b-17be-4a37-8df7-8bfe0a7b113d,6d682f0e-4484-4032-9d14-1f78e542332e,Defective,New,Approved,t
+41ddcd8e-80bb-4216-ba2f-5939824a6f85,9bd9e7a1-efc0-42f3-9c91-dc8e6fb38716,ac6cb67d-d8aa-4e1f-999a-e798485eabf5,Incorrect item,Used,Rejected,t
+b5aa0bd6-8ba9-48aa-8a4d-8689e903857b,6f2efc28-836c-4337-a7e4-6e1371f4ca13,cfcce370-765f-4827-ac39-dc01394355ca,Damaged,Like New,Pending,t
+86e3cfe6-8c09-4bae-9f0f-7f667f48f12f,ab23cd34-a96d-442f-b8ed-ebbeee93e724,10424ada-38d5-4f51-9e52-2a8779dff6c0,Defective,New,Approved,f
+d11eed71-2371-4e47-945b-9965bef7f9bc,ec3e7e8a-ea8f-48c1-811a-87304757144d,da11a243-732e-444e-a4a2-1034831d3cfb,Other,Damaged,Partially Refunded,t
+ef8c43a0-19a5-4bdd-8bee-9d8b2762f417,4d1c41be-273e-4df2-b17d-37387da67cca,3c2e2ef9-da0c-4e60-b921-2231fc95d117,No longer needed,Like New,Refunded,t
+e0a4b24a-0a44-492b-adf3-2e03cf98c7d0,d09b67d5-6353-4036-ab0f-557266d465e7,93848263-fcc0-487c-8ef5-5df25f22a004,Incorrect item,Used,Rejected,f
+0544b996-fce2-497f-935c-ec7c80432e21,bc77c4bf-edfb-4502-bfc2-5ead0ff1175b,8e1ddda2-5b6c-422d-9edb-a8a92cfffd82,Damaged,Damaged,Pending,t
+5ca78640-cf8b-46d9-8a08-eaded0534430,2ee16116-d3de-4aa5-b9e7-5763a20198c1,aa04171e-7467-4dec-808a-a2f5e5aafc21,Defective,Like New,Approved,t
+9075d9e4-008b-4cc0-a3e3-3fd85a2c91b4,b587e8a2-b1a6-41fb-8ba3-20c60d486c19,29a5a2de-b8ed-4ecd-b051-874a2ef3f908,Other,New,Partially Refunded,f
+f53f958b-e03a-4a8e-a259-3808987b6248,7ace10b7-e9c2-47f5-be4c-b7854bebf28f,e23dd0ee-caf5-484b-bc18-9204a3faf327,No longer needed,Used,Refunded,f
+7ce9a763-25b1-4d0b-8ac6-e038ab0e5138,74067132-e79b-41d0-9c6c-899cb3735233,ea7ec974-1405-4aa2-acce-9d82e2c4594f,Damaged,Damaged,Pending,t
+ccd1c327-0880-4c59-92f1-a5ac7d7b1c31,a0a0e8b8-3f62-45a7-9175-70298af71571,a6ba0327-c2a3-4521-8313-593a05b1be17,Incorrect item,New,Rejected,t
+98f0ea7f-b949-4377-9ef6-d76c16369030,3e027448-98b3-4088-bdb4-c91045f27a32,f69435a1-6095-42ff-b26b-0817eaea5671,Defective,Used,Approved,f
+30d7eab0-1650-426e-aeaf-02fade7bae48,b15b0edf-b90b-480e-9d5b-83b26df5ee2e,db9d9b8e-9416-4d7d-a912-160f0aff9b41,No longer needed,Like New,Refunded,f
+06043092-554b-434c-99a7-224de06e6bba,6974a16f-1517-44c3-a4db-eaa712393fa8,755d6d9c-09ec-4e28-9906-a1ea86fb20fa,Other,Like New,Partially Refunded,f
+e0bac4c7-8cd3-4603-bc49-ad531bda5bf9,3171306c-705e-4ece-b8fb-ef731c32373e,0424281b-8b72-40de-a076-0fa49974ad41,Other,New,Partially Refunded,f
+5cdec8e2-a7ae-4670-a36d-58d5c601acfb,6449c04d-56af-4372-88e0-4ee60a05cb9e,cd098a59-3059-466b-9793-d13719e256f6,Incorrect item,Used,Rejected,t
+7af52ff6-ef56-4d16-afd3-8869bcb43823,d80e8736-ffeb-40a7-99da-0ea3c67a5a04,7170bb74-6a87-4e01-b403-27352b489271,Damaged,Damaged,Pending,f
+f5d0f8f5-7705-48c2-8405-f969dd7f5891,1ffe0a38-ae3a-4bf3-a795-49cb527cf861,e237edfd-dc1e-4421-91f1-f54a5eae1ec6,No longer needed,New,Refunded,f
+56852b84-6feb-40c6-afcc-1dbcaacfdf1e,27e85721-10ad-4f08-8a60-2862a90c00b0,b9e2c382-e395-4e04-a6bd-40d49763da89,Defective,Damaged,Approved,f
+19feb61a-22f4-455f-951e-c2fa5f36f15b,45576a04-d489-49f8-ad1f-2d0d420dd87a,563a3a53-0ee6-41dd-9e30-f837f69f2e56,Incorrect item,Like New,Rejected,t
+f7254fe0-d9b9-4533-8b13-dda969df9496,5064146a-65f5-4ea2-b51f-08f89c47d5f6,b4f904ea-b0b4-4f31-bca6-bc5ae4f2089e,Damaged,Used,Pending,t
+5da8e537-ab4a-4b37-8db8-02c45a74d418,db90d7bb-4081-403e-9231-fa7dc2e733ba,6614d785-276a-4f68-9e79-eaabe133efe6,Defective,Damaged,Approved,t
+7775ae04-2fa6-4ebd-aefb-f4a697bb4967,d1b1db98-d127-4c35-86e9-18ae3993ab5a,b44a2a71-55a1-48a6-ba78-d98675d66826,Other,Like New,Partially Refunded,f
+52db30a8-da1f-4f89-942a-3dc4254391d9,00676902-2fc8-4131-b71f-f23155aab1b5,c112b69f-7e50-44eb-8f9d-7cd99b6450ba,No longer needed,New,Refunded,t
+10e6a1e0-dbdb-42fc-8f32-d61ad94b7414,45450bb4-7bca-4a96-90d7-90bdedf4b7b3,62c6d8fe-7535-4e70-939d-c721200156fa,Other,Used,Partially Refunded,t
+d603852e-cba3-4e44-b6e4-7976882b07fe,ffa265d9-0262-4f56-b097-84de609b62c1,f55218a4-dc85-4e95-8ac1-d543371e3e61,Damaged,Used,Pending,t
+63a8e3d8-99b5-46b6-a4da-547e2d8f1d13,27b4dd9c-fd30-43e9-8c21-43022baa3797,540035cc-88d4-42aa-81d5-5fa621e15b84,Incorrect item,New,Rejected,t
+6f0bef7b-b1b8-4796-b97e-fff5d7e5f4bf,23a1d92d-2974-454d-b611-7a52cad8d8bd,3a0a9b43-6713-4ebc-845b-8e5e3f742c74,No longer needed,Damaged,Refunded,t
+6e3efdb5-4c6f-49ea-8c1d-b541e3f6ce08,97c7522a-8000-44a7-bd8a-6ffa5f876b3f,3e6dd239-2e97-4fa5-8d2a-4341ab5d3bc2,Defective,Like New,Approved,f
+584c82f7-81b5-44fa-91c4-93217646506e,fda104c2-9b4d-462f-af47-ae0165fdb4ed,a52f65c6-409f-4ba9-ace5-6e74a0561674,Incorrect item,New,Rejected,t
+da98c124-e5a0-428f-97cf-344642ed203c,d8c1ce94-9b67-4f72-82cd-319af31c1e9f,2b6747a3-c74a-4327-898f-184654e4e6f1,Damaged,Like New,Pending,f
+1bcf0155-9095-4a93-8603-3db06fc5d425,7a20343c-47a1-4907-9b68-933039bab418,8ddd2968-5e7c-4902-b5e0-238cb0013699,No longer needed,Damaged,Refunded,f
+9cec5594-3add-4c21-bdca-04717b9c09a3,e5784922-b23c-4cba-8e7d-349720f353d7,8b49f510-7085-48be-85ac-81a1d11f00e3,Defective,Used,Approved,t
+54d0adf6-1f18-4b6d-a9a0-909eb722dd76,76f84c4c-9192-4946-989e-d89ea87b7093,08efbdd3-24fe-4313-8d88-809e023b499f,Other,Damaged,Partially Refunded,t
+faaadba5-045d-4fcf-a71a-fb036ab71aae,e82f1d07-6541-4072-b9d3-240b6b811644,a2f0642d-f6bb-4f6e-8c82-a67e9f1d84e0,Defective,Used,Approved,f
+9b6abeff-9be1-4795-8668-92e0c56f387a,eaab110b-a953-4fd3-8914-9415d946238e,439d9803-d085-42ab-9554-62eeca8a2d6b,Other,New,Partially Refunded,f
+996d74cb-64ab-47ef-b07e-2f9f88a4ef5f,f9cb7342-22dc-4875-a194-9fe34a3329a2,ec66d439-4bc7-4085-97a9-4909026c0a70,Incorrect item,Like New,Rejected,f
+c737da6a-991f-421b-94dd-c7c6235b4a20,9a5c81f1-cf1d-4d7d-927c-3f35e5359142,aeb3eb50-88c8-42e2-af8c-08a8a0fef9fb,Damaged,Damaged,Pending,t
+6da7795c-263b-498c-aa96-e44c941f0edc,799f8cf3-b450-4df1-b67a-c6e5cef658ad,88eb1d0d-1f85-4bb1-a41f-82b4e6911d7b,No longer needed,Like New,Refunded,t
+868fcd45-d15c-49a4-874a-913a08ae2b9e,01f8b4ef-8d25-4773-88a5-c1a268b0ed20,f2bbb94a-2af5-4600-a55e-e7efa4ce6cbf,No longer needed,Used,Refunded,f
+8505063e-3e3e-4d6c-828c-f1391ada2118,7a7fad59-7877-488a-abcd-e494058ee7bf,0f2d36ff-5f54-4311-a2d4-dbb98912b546,Defective,New,Approved,t
+a42ce55b-ee79-4884-9a11-73edfaa08be7,47c1e307-b04d-4927-9ba5-64f102fc644b,0e0ff1d1-fef7-412c-a8ee-8114360ebacd,Other,New,Partially Refunded,t
+5b064a20-2bf0-456b-a75d-8075056aba82,dda54e47-612c-4ac5-a5d2-5beac50de4af,aa98eccb-ded2-4943-b2f4-bfdca7fef2df,Damaged,Used,Pending,t
+6f04cd58-20a2-45da-b3c0-cb8aad94bedd,ab0d33f7-bafb-4d8f-a32c-37521a211060,3a358499-2966-4fa1-84ef-f30baf3fd1c7,Incorrect item,Like New,Rejected,t
+5a302991-784b-438d-bd4d-a8eab46c8065,e4991e6a-b8cf-4586-bc1e-26f1d09f8fe3,a11b231c-83e3-433c-b1fa-0877cd8f88c8,Other,Damaged,Partially Refunded,t
+a05b70f8-5e1b-4b45-b47d-f353a3990f63,6bc2a0fa-d674-4a66-9b3d-d2f8c6480506,ff0557d5-5131-4fed-ba35-fde0a60cb246,Damaged,Like New,Pending,f
+61d4cec3-bfa6-49a3-b400-1b714611ab3f,906e6ff7-17d8-4c69-8a59-fae04a7879af,620638ab-ea4a-457c-a3f1-be769572af53,Incorrect item,Used,Rejected,t
+185880ca-741c-4d7a-af78-c3b3d052b65f,51c03967-ef59-4055-b19c-7254ba7f666c,35f7f3e4-69ec-4408-8687-7d0d28abbec4,No longer needed,New,Refunded,t
+3ddba92c-e099-4d7c-98a3-32725e22dcac,d3c1a89b-8de9-4366-96bd-9c5736e0102d,7eedd46a-7dcd-4c31-bc59-4d631d2ba58a,Defective,Damaged,Approved,t
+97a26988-b436-4fd9-934f-f31d27b5426a,381fe4d2-e069-4c9b-89bf-ce29a03472db,72dea6f2-6b8d-408b-89f1-a8332dd6b2cf,Other,New,Partially Refunded,f
+b7dacd2b-7854-433d-9707-ccde14e25df2,6f13d556-9b78-4753-9a77-ee82051b29ae,ec2353ac-a2d5-4b98-a682-ca2af571deb9,Incorrect item,Damaged,Rejected,f
+d33a3e40-5aac-4927-b20e-a44d5c5c4dc5,eb718854-7a14-4b7c-8498-271aaec20c76,fae2c303-3fb4-4823-8cf6-34f45569e003,Damaged,Like New,Pending,f
+fe6b57ba-0f1c-49ff-8bbc-6d6739a45756,8cf08502-7b09-4c11-8787-38b1c50edad4,f939e63d-2129-47f6-ad18-7acf5d4ee830,No longer needed,Used,Refunded,t
+1c394b32-744b-4ee2-8059-eb24e15cd7ad,792904e7-afd0-4c0e-bea5-d1f206e1cbf9,73ac6ad2-dec0-407a-81bf-a0944dca3f73,Defective,New,Approved,f
+75947dd8-89c8-46b0-8a73-4d046b8b658d,e0d71199-840b-4ef1-8587-924487cf7ff5,d897271f-9dd8-4c8c-b5a4-8d7e040f753e,Damaged,Used,Pending,t
+89900ee3-94d2-4a5b-a730-5e22f721b834,a795eeaa-45aa-4cfe-a3ec-4f66b541821c,b1c5da64-dba0-47eb-bc6f-d2499036e575,Defective,Like New,Approved,t
+5f090b80-6c32-4b7c-a516-a165e022d2e3,fa467fd0-ba20-4ed3-9aa4-0e636ecc6dfe,fd9bcbf0-4f42-4f7b-b22f-cce804ce7c52,Other,Damaged,Partially Refunded,t
+0773e504-ad2c-44e1-836f-e9184b23df5b,2dc3ec3f-6c4f-4974-9467-9ef5ac0269e9,6990ed26-6b69-4861-9110-60424250c3a1,No longer needed,Damaged,Refunded,f
+184d7007-3d25-4d04-9710-10ec696666e3,496ac261-0dd9-4ff2-ad16-d13c9ea21c44,5986d1a6-db5b-4296-adaa-5c820a818951,Incorrect item,Like New,Rejected,f
+c33b3721-4438-4385-9683-3f9dbff38105,e1f14162-44ad-4be6-9c2a-367995e9d8b8,0a6a31e9-d95a-47be-9561-5e19af8f077a,Incorrect item,Used,Rejected,t
+0fa3a54b-0f6e-4b2c-9f02-a971eb019052,5035876d-77f7-4503-a4b5-5ac73c72c3a8,f1e24188-439f-4fb3-9365-d0ad532887e9,Damaged,New,Pending,f
+f1e3ad1d-a260-4a1e-90e9-dab916276a9d,e4517dd7-58dc-4309-a4fd-eb2fa23f7186,fca90b3f-767f-4711-83a7-8176fe7dde08,Defective,Like New,Approved,t
+60ea204d-efd6-4845-9aa9-f4503f3f8e92,421d00e4-26f3-4aec-b2fa-a44e8104bd6d,a6ffa717-bf48-4489-9209-4ace0a7c8563,Other,New,Partially Refunded,t
+f5a99424-0934-404c-b86c-80654943c513,eacd7e58-4dad-4a2c-b9b9-b2b968d68f56,3d104e03-26ad-4ebd-868e-23dac002f8ab,No longer needed,Used,Refunded,f
+1f2eab89-60d8-4530-b5c0-137567335cfe,524db4c3-15a3-43e1-a365-6f690cd19eff,eaeb4741-d3d1-497e-b728-d04d69bb17ef,Defective,Damaged,Approved,t
+701649a8-538d-435e-b3d8-7c6e4b8a3e32,03ef8745-316e-440d-ae12-27ff85d2374d,979dcc58-4ebb-4ce7-abc6-acefdf044aa5,Other,New,Partially Refunded,f
+5f48ac56-4e89-4877-8fb9-a7afeb5e6555,876dad6d-fee4-4dbd-b0c1-66d2f152451f,a58ba19e-94c2-49b9-b742-c7d6d7105841,Damaged,Used,Pending,t
+e8dfb98d-f455-4ba3-87c1-b0a657b6897c,f6d03fa6-375b-40ee-9587-ed4d66d42b63,c2d2644c-8fec-498e-a80a-3c2575492303,Incorrect item,Damaged,Rejected,f
+56276cf2-0f4e-4f80-aee8-03196dda233e,6bd5a31f-51eb-4129-b793-789caa4862b7,a2155936-5771-4d45-bc30-40448b6cbdf0,No longer needed,Like New,Refunded,f
+10731a47-fcd2-4c27-8eca-4b431000c834,fd429b2a-2045-4ee5-84be-a4dc510d3091,b3e636a5-4bf2-45ba-92ae-1ea6590d888f,Damaged,Used,Pending,f
+b7bffc2f-093f-4da7-9a74-25e100da0b27,e4e686bb-daac-4350-9d6f-dd9d295d2595,7fac0e5c-0d94-4cef-a624-184690eac075,No longer needed,New,Refunded,t
+6c983ac4-466b-4244-9401-0d494ea7099a,4d2f8337-b965-4250-899c-7d1c19d2a726,55587eda-33f9-40e1-ad14-003dd30db03a,Defective,Like New,Approved,t
+a32f2438-d431-4cf2-aa28-603ecb25ef52,82f72605-3091-46ea-b303-cef4795adbfe,65590690-6022-432e-adca-76a358864615,Other,Damaged,Partially Refunded,t
+9d7c3f60-4e14-4e4f-92b0-35f57ecf8c84,140cfd4a-13ac-47c8-9f63-f0399aba6e60,01b10eef-dae8-4799-b0c1-69bb7b749be9,Incorrect item,Damaged,Rejected,t
+ac849cc6-5005-4809-97b6-02de43a08dc0,40b512e6-0756-464e-86a5-5a73768e2fee,cf0092f0-0011-4227-9f53-de6af463e3e1,Other,New,Partially Refunded,f
+20b40dc7-f4fe-46cb-a467-96def6abe5fd,6f9756de-7b77-475c-a7e2-c04eaa3d09da,7719af2c-704e-457a-bd8f-c6c96d2a73f1,Damaged,Used,Pending,t
+064d2440-8ee6-4a3a-9b53-f0cd970c1692,5566544c-4157-4fd9-99e7-7cb81a9f58d3,90f17810-dc79-4246-8ced-740ceb3b19b0,Incorrect item,Like New,Rejected,t
+9f2bd00f-a5f1-42c2-8dc5-064a900d9345,252cd5cb-b18b-4516-922d-6693d1686f32,1f13b14a-0633-463a-9fb7-2374d4cbe4d9,No longer needed,New,Refunded,t
+6afee6ea-7484-4b48-8949-cd80d37ce061,4dd4bb6e-79e4-41af-85ad-6edda3026762,14628f41-3429-4044-af6b-9fb3c923909e,Defective,Used,Approved,f
+20c9a642-f0c4-4b5d-bd86-67d528675c5e,cc2587ca-516e-4a3a-9b88-d3ddc6f113c3,3cd8de5a-f552-4943-a0df-9d9c0ca6f087,No longer needed,Like New,Refunded,f
+a56799bd-7175-4473-86d9-0a6454ef521c,6b9413f7-ce88-4829-8446-b2262d85c3c8,aaff2377-c6ee-44c0-9fa4-80fd96644e8f,Other,Damaged,Partially Refunded,f
+9659edfe-cba6-4300-a98f-c3a027f6ab71,a2deecbf-ca21-448b-8ad0-300b7e5fe65c,2ac5664b-39ef-427e-bf62-976009931554,Damaged,New,Pending,f
+7d2f15dc-de2b-4218-a231-669942cca060,2f525d68-c8f8-4cbe-ad7e-82b41f958a64,5837b775-edab-4cb9-a01d-e9f09242ae5e,Incorrect item,Damaged,Rejected,f
+27d90a37-b564-4a30-be6f-37f260b5e37f,b54eb2b9-f0ec-4a32-a210-00e4773d7cda,c778cc6a-9b28-401f-b87d-9be59ed07a78,Defective,Like New,Approved,t
+c8ffb7f1-d1bc-4f4b-9a22-207e5940cb0d,712ae1c3-717a-4fb9-9293-32b1465c0fb9,9663ad55-2cec-4350-931e-9045855a974e,Damaged,Used,Pending,f
+46513619-25a1-4067-a654-18313f3e11d9,ae5665db-5851-4949-a15b-5f9dc5c63fca,41d90d3d-62e6-4e14-9a95-6cb785dce3ac,No longer needed,New,Refunded,t
+79769f99-c69c-47e3-976f-dc8687599fc5,83b978c1-e69a-4f75-8064-db1a7b12b3b6,02eb1974-b4ec-41dd-90dc-1f00106dd0ef,Defective,Used,Approved,f
+64e1a0f9-edce-448d-8b14-f27a1571b0cf,f5458351-2e4e-489a-ba11-af53591005bf,07448297-8042-40ee-a258-de5daf17c06c,Other,Damaged,Partially Refunded,f
+0c4bc324-f7c7-4a32-b5a0-a993aaf97bfd,2d4f11c9-a13b-4046-95c1-7b8b0f4135b6,30ed33a3-f31a-46f4-9202-3ec8cb7abe39,Incorrect item,Like New,Rejected,t
+6d6a778b-c932-4b4a-bdbe-c9813451eeea,4692f63f-15de-4a80-896a-8d81879616de,c688b627-9da2-4918-aa8c-0f467f5d0cff,No longer needed,Damaged,Refunded,t
+061e8423-1660-40e9-8c22-19d923c86fbe,e37e4cb5-28cb-4a2d-9929-0327d3f5e88e,037e2638-f749-4339-be5c-7f2ae9375619,Defective,Like New,Approved,t
+29173457-dbda-47cf-89ff-4c5378d95e0f,9b785b81-d5ef-4dff-b900-1293b9863184,9e5c831d-d4f0-486a-a38d-78b29d3b3f17,Other,New,Partially Refunded,f
+36e7a1ad-747d-44b4-9810-317cc7b1a94b,45d48c0c-a0d0-4641-acaa-2bcc44367fb4,5e032c5e-87f7-46ef-8e7a-0c8c6d249606,Damaged,Used,Pending,f
+9d38e0d5-a2a5-4946-84f4-c76a8d4cb470,dc26b3ab-1de7-4bb8-b589-d3684be46755,7a8c7063-0415-4b43-afe2-7f0d76538aeb,Incorrect item,New,Rejected,f
+b42d3b24-57af-4e9f-a72f-14d5f624c337,d1cf003c-4f73-411e-90ef-26f9934a1e26,2505af34-309d-4506-8415-9ce05f823146,Other,Like New,Partially Refunded,t
+7db3140c-d4bd-44c8-bd76-1b440b21b5af,c8f33a81-304d-4b2d-9339-fe5a99ec27de,39cee69a-fac9-47fd-9dad-f735220407aa,No longer needed,Damaged,Refunded,t
+684b3f2c-8687-4315-9527-d5fcb211b5c3,83695115-186d-425f-81cf-9859d6fa3f24,72c3352a-177b-4dc4-8e8c-60bfe02e6499,Damaged,Used,Pending,t
+f0b28919-343f-479b-8782-7f3ffcfeb942,5ee8645e-f38b-4c51-8ac2-fbdf05223175,16e310d8-4598-4b44-9b54-cc8d116652e8,Incorrect item,Used,Rejected,f
+27aede5f-51be-47bc-b4fb-831e428509aa,31e21524-1bb2-415b-a871-3c55927a3adc,c7112d4f-17a4-4c55-9814-af472f8be74c,Defective,New,Approved,f
+60831434-ff15-49f9-82f9-131bbd34cda1,f18803eb-1ff9-437e-9e8f-5a06172e8290,3a343fd2-3e9b-49c0-b60f-b854d37f7a6f,Defective,Damaged,Approved,f
+750be796-2950-4318-8d4a-74e7a9abef4f,eb296f9f-95cc-458b-8d09-28e77de27b3d,b918bf3c-ede3-4705-89fd-d735f44a59ad,Other,Like New,Partially Refunded,t
+37bd05a9-d1e0-4bd5-b6a5-21a9956b6b76,994aa57c-81c0-4c04-b10a-8e763759e2bf,9f5643bc-1e03-42cd-8355-5db2db1024f2,Damaged,New,Pending,t
+d732c61c-410b-4f16-a8c9-5f395babd958,669509e9-573b-4a45-8164-f6c1d05b04c9,6ef54745-3c88-48bb-b24c-2fc7540fa5eb,Incorrect item,Used,Rejected,f
+0369ac09-5fad-46ca-9e10-74c7e57bdc3c,000861b3-6ff6-46ef-a1f4-e969918503ea,3db771da-2d84-4d39-a8c4-ab88e41db4ea,No longer needed,Like New,Refunded,f
+56c502a7-6d30-4006-9301-c66a28d6040a,5368a325-6ab4-43e2-97e8-df49abfac167,4e9b2b6c-b9d5-4608-937c-159bd037cd87,Damaged,Damaged,Pending,f
+80712409-3996-417b-9b69-d4470b14b0e9,997bc521-c0fd-4a31-9606-5603b2a44fbf,2660cc8f-0c2d-48e4-b8ae-bc271274a924,No longer needed,Damaged,Refunded,f
+032f2885-f76c-46a1-819e-56b2781f39b9,8835d04a-0aa6-43d8-8c78-1175f97040f9,ee8a39d8-c72a-47d2-88dd-05696112b6e5,Defective,New,Approved,t
+9a0143c7-e498-4cd5-944a-62fd275a6cc1,1b78b673-efac-40bd-980f-c907aad398c5,a05ae5fd-b8da-46eb-9761-405fce53589c,Other,Used,Partially Refunded,t
+4e9c99db-9aee-4add-b1f0-f260c66db825,9c5ee190-0af0-4bb2-94fa-7aac4f158984,2af5cfe8-5e89-4ac0-aea0-9486cb3739d4,Incorrect item,Like New,Rejected,t
+b586751a-0100-4114-8532-c0a803b45acf,553dd731-1681-4b08-a67c-9aa867b2f0bd,8463a84d-02e0-4efb-836c-569fa92740ab,No longer needed,New,Refunded,f
+9e30195e-4683-4b7a-8536-74ce565b4fe6,c031d4fe-e47a-4f28-a1a4-c507e4204c88,be341cb5-db1f-49ff-b6cc-ca6600e78519,Defective,Like New,Approved,f
+28fa3314-741c-4e39-b4d1-a68ead3f20ef,565f8d14-4802-4830-a6cc-c4a6ead5299a,249a6a31-cb95-40b7-b052-976da5a92324,Other,Damaged,Partially Refunded,t
+0ef5cbef-2c25-41cc-b08f-ac74a578b4cf,17724eae-46f4-42f8-bae6-06ab61344255,8d7afd0e-d76e-4b8a-a2dc-a13e90b79501,Damaged,Used,Pending,f
+a5130a47-a094-44bb-804d-fdf1980f006d,97b31250-03d0-4687-bde6-f309be0888bf,11d5abcc-7d27-4349-b29e-3d453773f981,Incorrect item,New,Rejected,f
+af38a3f0-5598-4861-affa-ad98183a8647,bda069a0-5fb7-45bf-a233-22ea45d52f60,f3963591-bf42-4cac-9d12-92f892ca32ef,Other,Damaged,Partially Refunded,f
+0d597f10-ba71-48b8-9ae6-215075e1c9ab,b9ff6f4f-589f-4d84-8095-fc72e94e377e,6ad7550b-9acc-4497-a729-fdb5b2d9c00f,Incorrect item,Like New,Rejected,t
+139f498a-9e56-42c6-9c9d-c77b1d38cde1,64128efd-009a-4656-92c0-9c4243bc18c7,5d3c099e-bb30-4643-8250-75d2e945be0d,Damaged,Used,Pending,t
+dcbd7d85-bf9d-45c4-8f7a-937427baecf1,2c018548-6504-4b8c-9e58-409a2f65f629,cb066abc-a55b-4918-97bf-2948d049e661,No longer needed,Damaged,Refunded,t
+86691589-3f44-4172-b221-fa7229e2c538,e570c5eb-1780-430c-be70-2b4cb88d2953,0b68263c-01ee-4d9a-bf0e-a2e33352370f,Defective,Used,Approved,t
+c8a6b675-24ae-4183-a202-95d9d0ae8800,69d5c520-4325-4d68-910b-1a52e7e38d9e,20840020-c35d-4017-b753-e7e9ab18ecad,Damaged,New,Pending,t
+b89da818-abaf-4ae6-90bb-f7f5571bd41a,ae93fb13-110f-4eff-ae36-625ec222c05f,a8a76974-0a8b-4405-9f91-3b15d6c8812d,Defective,Like New,Approved,t
+ca1b1765-5a93-44fb-8cef-ef7b970eaf82,9fc95db0-bfee-4b3f-91e0-c2a64198abcf,e6f78d4a-0e2c-4e55-9fbc-48eaa10164f4,Other,New,Partially Refunded,f
+80f1e0e8-d0a9-4447-9b59-b3348dddb532,4997aa9d-f5eb-4a07-8df2-bcec007143cc,f8d3cfd7-85a9-4b3f-a0b3-0e74450ce6b0,No longer needed,Damaged,Refunded,t
+97fe4466-fa3f-4794-ac0a-fdc32afbe734,e04423d8-c9a9-4b11-8231-50f8e162a10f,c4b670ac-ed7f-4a95-8338-b6a503c832cc,Incorrect item,Like New,Rejected,f
+a4edcff8-2e06-404e-b923-314c9e6905e8,845614b4-56af-4cc4-acfd-5340d0a9b7c3,78a961c7-6d34-44da-8fcb-ca735922b042,Other,Used,Partially Refunded,t
+aab4bb43-75eb-4329-8fe8-088216a57d58,921c3d63-5016-4d19-932c-12e2139a2b05,e16d58e1-81c9-4276-b945-ea1a8e19d329,No longer needed,Used,Refunded,f
+97734e6f-cebd-455a-b569-6f5be9503dcc,8d1d43a0-2c25-48e9-b434-b7b00b64835f,501abd45-6dab-429f-89dd-dc00a3b105a9,Incorrect item,New,Rejected,t
+4c5da902-f706-4341-a04b-7e061854a9ac,02098e8c-7833-4d5f-a39c-3d8b63f07661,bdce3822-d25b-44c5-a566-d1334a0c1bb3,Damaged,Damaged,Pending,f
+cf2b8dad-b142-4da5-ab7d-0484db8a5058,39d864f3-c3f3-4b88-a8bb-1024d7c3dbcb,5a34d298-7819-48d8-ba05-5e650cc879e6,Defective,Like New,Approved,f
+9672606c-bec4-47fb-99fc-08935d1678ac,95709e6d-686e-47dd-8f08-59ab40a0f14f,931b2b8b-a547-494f-ae19-e0206045a7f5,No longer needed,New,Refunded,f
+58ae4fc7-06dc-4686-b8b4-f919e9f541be,ecb13d26-60d5-43b1-abee-1c2003534cc6,eb251d4d-8da2-4b9a-a10d-6d54058d1e5e,Defective,Used,Approved,t
+9fbc304d-e08f-46dd-99a2-0d199dc6ffb6,c53fbb4a-cb64-43e7-8756-29cb437eda7c,036c8523-6876-4db7-a8e6-f5de6554ae6e,Other,Damaged,Partially Refunded,t
+30e544a0-4316-49c4-989f-3db10d93d14d,6bab465d-df2e-4254-b25b-88bce9ef995b,cb5cbc48-b8f5-4846-bcc0-3e6e02387f0e,Incorrect item,Like New,Rejected,f
+aa429683-3c80-4b7f-987d-15685e4934a0,38fce26b-c6c3-41b9-b826-a8af04b44b70,83a0118f-ac5b-4b25-a4e1-689e143963eb,Damaged,Used,Pending,t
+2e523a9b-bd32-4104-b825-4d1924abba72,05134a7d-4849-4a43-ad1c-9d67200db90c,f1d98148-344a-4801-af8e-64488ac4c3c6,Other,New,Partially Refunded,f
+562cd579-c803-4920-980f-9adcedaf4852,26e81026-168e-4bf1-ba3f-6be4c56427a3,a5e5c694-16d6-4292-8fa0-c7ffdd61fe59,Damaged,Damaged,Pending,f

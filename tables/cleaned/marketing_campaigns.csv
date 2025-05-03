@@ -1,0 +1,75 @@
+campaign_id,channel,objective,launch_date,impressions,conversions,customer_id
+507ea8ac-9584-4c68-8a7e-05f119476b07,Webinars / Technical Demos,Seasonal Promotion,2022-03-21,8023,6565,cf2c84e4-628a-40d3-b4e3-4abbe34f256b
+4b82941f-f0e9-49ed-8bef-069db3a9149b,"Engineering Forums / Online Communities (e.g., StackExchange, Re",Market Expansion,2024-07-28,2069,1809,f2149a1b-db47-42ad-8147-8688f1ff4330
+95132475-e80c-4fd0-b025-ab24bd7e23e2,Technical Whitepapers / Case Studies,Upsell/Cross-sell,2024-07-17,5802,5172,fa0b66b9-452b-4292-8d98-b415a2137feb
+e5ef5ca1-3cef-4b97-9491-b4053adeee64,Channel Partner Marketing,Promote New Product,2025-04-05,6621,5900,cc0cb024-46ab-49ee-aa52-bcc94e26ca1f
+a7b333b4-17ce-4c09-ac02-f14bfd224b79,Email Outreach (Targeted to Procurement/Engineering),Website Traffic,2024-04-28,2045,1779,a592d7a0-e7f0-4fd6-bfa3-eb7e4785d3e3
+5d61580a-e94c-4dc0-8fc0-8d61f4755c61,Industry Trade Shows & Conferences,Product Launch,2024-10-01,4144,3712,ee5fb2bb-6bb6-43ae-8c5d-9bccfad8a8f2
+0d61e8cc-732f-4b88-a051-a8b35d2d1aa0,Account-Based Marketing (ABM),Increase Sales,2024-02-25,19094,16455,18bc3961-b9f5-4279-9945-2d03c02e1621
+9c3244de-c3d5-4fc8-bb49-a4acff4308c3,Direct Sales Enablement (custom decks/videos),Lead Generation,2022-08-27,5817,4818,7056e922-2372-4de2-be2f-d9a38bb29288
+89e39343-9b1b-469a-a991-0434551b31e7,LinkedIn Sponsored Content / InMail,Customer Retention,2023-05-03,14746,13247,2f7b56ef-c896-4ecb-9e5f-60aef8794fae
+4a06b14e-c0e7-470c-aea7-f7c5bcc20ec7,"Retargeting via Programmatic Ads (LinkedIn, Industrial sites)",Event Promotion,2022-10-24,6392,5442,ffb11316-afd1-47a8-a943-1a020c05111f
+35d2cfce-c258-4362-a4bb-010cfe6884c5,Webinars / Technical Demos,Brand Awareness,2024-06-25,11585,10262,d4dab4be-9f52-43ef-998d-4f1ffac340bb
+5e3cbf16-edc7-4bf6-88e5-b943c74aa7e5,"Engineering Forums / Online Communities (e.g., StackExchange, Re",Re-engagement,2023-08-18,17165,15027,ad8a0db7-c202-4f7a-b76e-3f4257af35cd
+fa9af8b3-b81e-4a9c-a3f8-789137f642b0,Email Outreach (Targeted to Procurement/Engineering),Website Traffic,2024-08-11,1649,1409,96320218-1954-432b-a768-936742892cb3
+ac8eddaf-cdc4-46fe-8bce-24413666a340,Direct Sales Enablement (custom decks/videos),Lead Generation,2022-07-14,15348,13688,4beb9162-f861-45cd-9ffa-4226a687d056
+2d7f86f5-b838-4755-b39d-e9c2ac7ef1cc,LinkedIn Sponsored Content / InMail,Customer Retention,2023-02-02,17529,14159,91594dda-f3c5-4834-97ab-3b605b408418
+a3ec4931-ec1f-49ff-9196-439ec213e0a9,Technical Whitepapers / Case Studies,Promote New Product,2022-11-12,2199,1930,aaac91cf-f34e-4d6c-b3e8-3476d2d1de86
+72e8bbf8-9831-4b99-956f-d26434a9fa74,"Retargeting via Programmatic Ads (LinkedIn, Industrial sites)",Re-engagement,2022-05-23,1640,1330,efdfbc54-ff9e-462c-a8ce-27b03704d5cc
+2f6a9040-e2a3-41d7-897d-4fecb0fd3ff3,Account-Based Marketing (ABM),Brand Awareness,2023-08-26,4292,3540,88a4fa52-c720-4354-9b7d-4b5217467818
+6b50db80-d60d-447d-8783-f7d5c84e4041,Channel Partner Marketing,Upsell/Cross-sell,2024-12-25,13675,11019,38004a05-3eba-496a-a3e2-88d7870c6745
+b71e68f8-7a59-43ae-ab95-4e19a512ff81,Industry Trade Shows & Conferences,Increase Sales,2022-10-04,2675,2176,20861e6b-1d34-4f54-9678-a876dd541e1c
+578e672f-a01b-49d3-bb82-572530afe4ff,"Retargeting via Programmatic Ads (LinkedIn, Industrial sites)",Seasonal Promotion,2023-08-27,11172,9579,62542e0e-4407-4f4a-b8dc-ae21c61b982c
+d856ca23-a6e7-4ae6-b0b7-479433361273,Account-Based Marketing (ABM),Market Expansion,2022-11-11,19065,16964,f56a5021-4e8a-4c8d-b59c-5badec285a5e
+98abfbd0-3f9e-46e6-b552-f68a161ec23b,LinkedIn Sponsored Content / InMail,Event Promotion,2023-02-04,14650,12404,2a791b17-67fe-4f80-8628-e2f2b7fd16d2
+bdaa6a3d-3e59-4b39-b7a0-9434bbeaf10b,Webinars / Technical Demos,Product Launch,2022-06-29,15896,13933,8eeb9aa3-396a-4082-85c4-3234ca10a1d5
+f6d9bb74-a8cf-42f2-8ca2-f9abcaec8dc6,Technical Whitepapers / Case Studies,Event Promotion,2022-07-30,16180,13512,4640c3a3-d434-4385-9ff9-d3e0b539f99d
+3f26532d-ece9-4a70-b3bd-d83778ab41e5,Direct Sales Enablement (custom decks/videos),Lead Generation,2024-10-11,5802,4723,093f6e59-b359-4080-9aca-0a8723895905
+d5910bfa-ebcb-4211-a794-d181386df55d,Channel Partner Marketing,Seasonal Promotion,2022-12-04,1410,1260,170da4d2-5e68-4941-9daf-bea734ce0e26
+635f22a6-6595-4972-8030-b1e21cc4f03e,Industry Trade Shows & Conferences,Upsell/Cross-sell,2022-06-23,15662,12950,f4f62425-c757-4c94-a1dc-0a334a5ed57d
+2b4fe6aa-2782-41c0-8cdd-4e37b22e7a48,"Engineering Forums / Online Communities (e.g., StackExchange, Re",Market Expansion,2024-01-01,19903,17547,fb0959d2-253a-4dfd-9811-eb8d9fde6327
+789f6267-36e2-4f7f-a83b-2473a2ab3828,Email Outreach (Targeted to Procurement/Engineering),Increase Sales,2024-03-13,18932,15335,6b3a2353-964e-4f26-a121-39b8d76f2e8e
+551d94db-5e67-4d90-b0d9-8ce255fa8786,Webinars / Technical Demos,Customer Retention,2024-09-26,5911,5068,92142f6b-f2a9-43d1-96cd-fa8f69af62da
+b5236fc6-3eb5-41c1-971c-d1010165e411,Technical Whitepapers / Case Studies,Website Traffic,2022-11-09,15071,12668,9d65cc52-44c2-4e57-9dbb-5457653c7ffd
+6d1f03ee-8d5f-4764-944a-f675fe64bd8b,Email Outreach (Targeted to Procurement/Engineering),Re-engagement,2022-05-29,14202,11798,1f3e515e-637b-4360-82e1-35745103d2a7
+f9e56b93-420c-4491-8bdc-1c13d2ff5acd,Channel Partner Marketing,Product Launch,2022-07-31,17661,14454,af80bfec-e41a-46f4-afbb-507369dab9b5
+52ae2956-ae4e-4210-8eb3-329cc0ce7505,Industry Trade Shows & Conferences,Promote New Product,2025-04-05,10090,8692,53c20c1d-ceca-4f1d-9280-ad0bab336261
+b26a281e-bfb3-4c1a-9454-48325c4bc53f,Account-Based Marketing (ABM),Brand Awareness,2023-01-10,6716,5411,873a9d89-b2cf-4174-8975-040a00f7928b
+da85b70b-3eb9-4b1d-9f1b-82c61396bbeb,LinkedIn Sponsored Content / InMail,Brand Awareness,2024-09-02,19697,16756,8e0e1531-3ec7-455a-bf04-6d7335db02ea
+4f08efe8-07ab-430c-96fb-a69404f732a2,"Engineering Forums / Online Communities (e.g., StackExchange, Re",Upsell/Cross-sell,2025-03-10,16687,14407,4379a194-1319-4a9f-9677-1b303b4416f3
+3e790c60-d343-4985-8686-e677c4867310,Direct Sales Enablement (custom decks/videos),Increase Sales,2022-09-26,1502,1350,ade5648b-f765-413e-8f52-40cd4f0724c3
+770368e3-b4e3-4c4d-b80c-35efddb9e02a,"Retargeting via Programmatic Ads (LinkedIn, Industrial sites)",Re-engagement,2024-10-28,2605,2202,a1c3df6a-17ee-426c-a537-384bc557249a
+bf1d41f8-5ec4-4501-a42f-0edb5b914ff1,Technical Whitepapers / Case Studies,Product Launch,2024-07-25,10513,8992,fd671d4b-a24d-45f8-803d-539f87417a07
+58b43b0b-7bc2-4abe-8984-435b9402e1ba,Channel Partner Marketing,Lead Generation,2022-03-13,5148,4482,2d3967ca-9d88-48cf-9eba-5785aca78cac
+10b05abc-c2bd-40e6-8167-c98e6601659c,Email Outreach (Targeted to Procurement/Engineering),Website Traffic,2024-04-12,7629,6741,a1423cdd-6f27-4953-a394-142b1e4639a3
+9df5526b-2e0c-4832-b9cf-298d5961e36c,Industry Trade Shows & Conferences,Market Expansion,2022-12-02,14645,12080,e856649c-4e6e-4bf9-a799-d3c825fe17b2
+19dfe747-9024-4c59-aa6a-63581a4b9085,Account-Based Marketing (ABM),Event Promotion,2023-11-11,1269,1123,de4ad72e-1b15-4be7-924c-2c2b483a600d
+d6b9cae3-ec7e-4d63-a551-4112fe6952c2,Direct Sales Enablement (custom decks/videos),Promote New Product,2022-07-27,5750,5079,5793b4b7-0bac-4ecb-9f74-3d608c29bd79
+486c7d47-541c-4e48-adfb-e878cc4c475f,LinkedIn Sponsored Content / InMail,Customer Retention,2023-08-08,13094,10939,3ffebdeb-27f9-48b0-a66a-f13e83f3d22d
+688086dc-1ad1-4daa-ac5d-91189d7d607d,"Retargeting via Programmatic Ads (LinkedIn, Industrial sites)",Seasonal Promotion,2023-03-11,9803,8783,84202857-2bf2-4e6e-8e66-0b219c503181
+aa69b89d-1ec4-430a-9404-371aef5a7da2,Webinars / Technical Demos,Re-engagement,2022-04-11,269,222,c3ab790d-9b29-4ca4-ad01-2f7db03d73e2
+1f1b9771-86d0-4794-9514-e1ccccf74355,"Engineering Forums / Online Communities (e.g., StackExchange, Re",Customer Retention,2025-03-28,17281,15328,2fd1d327-8281-4db7-a4f6-2455e85442fa
+fa941a1d-2f35-4598-9840-375893e901db,Direct Sales Enablement (custom decks/videos),Lead Generation,2024-07-09,11473,10201,0cb3471d-f20d-498e-a336-91ed70c20629
+31b90b31-fbab-46f9-8910-16722c97e8c6,Industry Trade Shows & Conferences,Brand Awareness,2024-05-09,8186,6617,9843a9fd-6ba5-47bd-ac29-33f92c1d0bb1
+ca825886-03ad-4498-91e0-59daf9163aa5,Technical Whitepapers / Case Studies,Event Promotion,2022-07-27,5728,4695,725b2879-6b3f-44f7-8bb5-7ec0c3b3a912
+8e1b8d1a-43db-47c0-93c4-f5d2f94474db,"Retargeting via Programmatic Ads (LinkedIn, Industrial sites)",Upsell/Cross-sell,2024-07-28,10167,9104,6ee5add9-ccce-45ae-93d8-e6ed90a679a5
+5b4bd09d-3ea0-43e3-9de6-a03cfffa095f,"Engineering Forums / Online Communities (e.g., StackExchange, Re",Seasonal Promotion,2023-02-06,2589,2189,2ced52c7-6e07-408f-9123-e9def4a3ee28
+615c2b50-8e4c-4757-8edf-0b1977e45aa2,Email Outreach (Targeted to Procurement/Engineering),Website Traffic,2024-05-19,9221,8113,a38d5c8d-c13c-4a20-99f5-e5a9fdc0224a
+1ff66224-13da-4d91-b46c-b0f46f7b986a,Channel Partner Marketing,Product Launch,2024-02-28,4716,3957,1bbeab24-5e70-47ad-9183-fc61b4d4a4f3
+11642e13-94e5-4a08-a029-cfb81b092fe6,LinkedIn Sponsored Content / InMail,Market Expansion,2023-11-21,8370,7247,a827f896-38f8-4d04-8318-b521964e7c05
+5cbc6488-0808-4f8a-9eb1-165055fdc52c,Webinars / Technical Demos,Increase Sales,2024-03-30,9127,7612,c5dc9ef6-95c8-4709-ba57-dd87dcb7fcfa
+208743bf-3dcd-44e1-98c8-a799c39fc75e,Account-Based Marketing (ABM),Promote New Product,2023-06-16,4527,3969,598d3c99-b677-4bc9-9a03-ef456725f8ce
+950f9190-813b-473a-ad87-39f9a975bf70,LinkedIn Sponsored Content / InMail,Product Launch,2023-12-28,10463,8795,fb2a0866-ca18-4e1e-a906-39293a51f295
+ee9b561a-724d-4f80-806e-984ed3dbe106,"Engineering Forums / Online Communities (e.g., StackExchange, Re",Lead Generation,2022-07-05,419,358,ec5ecfc8-1288-4434-b930-6cb7111f00ee
+cabe9725-0225-4b06-9225-c1be87021a4e,Account-Based Marketing (ABM),Event Promotion,2022-12-27,7039,6197,70f7844f-ed85-4e9a-90df-7ad9585d94f9
+c2d1b80a-bf83-4e16-bbb9-795005ca8363,Direct Sales Enablement (custom decks/videos),Brand Awareness,2024-07-08,1116,969,b9be8f91-a157-405e-999c-264ade6c7bb3
+9228a0fa-4e17-4c8b-ad6f-29dd55b1bc19,Channel Partner Marketing,Market Expansion,2023-01-15,9163,7960,67e0d956-47da-477b-bfa5-2f8693df7243
+5ab0b76a-264c-4b71-ab06-1e48f9528fa8,"Retargeting via Programmatic Ads (LinkedIn, Industrial sites)",Customer Retention,2024-01-10,10403,8361,e2113dcf-e803-4488-8957-ebfd0e22ff94
+b480bb77-6d65-48d1-804e-693329203323,Webinars / Technical Demos,Website Traffic,2022-04-28,16535,13292,4cfdee46-9302-4515-8d56-456abf62c223
+360c0500-c8bd-4773-8499-17b740f1ef7d,Email Outreach (Targeted to Procurement/Engineering),Upsell/Cross-sell,2024-07-23,10946,9136,ff2fcb75-d348-45e1-ac47-fc39414735c1
+bb80f390-7b5c-4b81-b0c5-df52ce70578a,Industry Trade Shows & Conferences,Promote New Product,2025-04-01,4132,3691,ed9f5618-594d-48bf-9ab3-3d04bfbf581f
+c00b12d5-6e80-4b01-b862-6cac99420f4d,Technical Whitepapers / Case Studies,Increase Sales,2023-08-06,12338,10678,8c5065fc-cf46-4b5d-9b5b-8d49a48f8b0a
+7d981317-da02-49f4-ab6e-154297c3ed6f,Email Outreach (Targeted to Procurement/Engineering),Re-engagement,2024-06-13,4961,4049,4f5bdb54-846b-4ceb-a5e4-fd0dee45c2d5
+f574eb74-3ce0-421f-bc11-086ddc2c23d6,Channel Partner Marketing,Seasonal Promotion,2024-05-20,19051,16028,29f79c60-e555-42d1-ad54-5d1662a776d7
+d6980606-40ff-42e6-afaa-b439ebae2ffc,LinkedIn Sponsored Content / InMail,Promote New Product,2022-07-10,3440,2940,11e14e95-74e8-4594-8553-e24215a099c5
+341ee3a1-e16e-4404-9872-33d52e6b9545,Webinars / Technical Demos,Brand Awareness,2024-03-28,11125,9656,1a1f0d01-9f38-4486-b9d6-9bc9dc1d9f8f
